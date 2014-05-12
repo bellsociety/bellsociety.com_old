@@ -30,7 +30,9 @@
   </p>
   {% if member.board_position %}
     <p class="{{ p_class }}" style="color: white;">
-      {{ member.board_position }}
+      <a href="/members/{{ member.year }}/board.html">
+        {{ member.board_position }}
+      </a>
     </p>
   {% endif %}
   <div class="social-icons social-icons-{{ size }}">
