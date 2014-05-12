@@ -9,5 +9,6 @@ permalink: /
 </h1>
 
 <p class="lead">
-  A Tech and Entrepreneurship Senior Society at the University of Pennsylvania.
+  A Tech &amp; Entrepreneurship Senior Honors Society
+  at the University of Pennsylvania.
 </p>

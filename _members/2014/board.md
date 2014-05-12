@@ -13,9 +13,9 @@ year: 2014
   {% for member in site.members %}
     {% if member.year == page.year and member.board_position %}
 
-      {% cycle '</div><hr><div class="row">', '', '', '' %}
+      {% cycle '</div><hr><div class="row">', '', '<hr class="visible-xs visible-sm">', '' %}
 
-      <div class="col-xs-6 col-md-3">
+      <div class="col-sm-6 col-md-3">
         {% assign size = 'small' %}
         {% include profile.html %}
       </div>
