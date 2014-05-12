@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<h1 class="cover-heading">
+  Bell {{ page.year }} Members
+</h1>
+
+<div class="row">
+  {% for member in site.members %}
+    {% if member.year == page.year and member.is_member %}
+      <div class="col-xs-6 col-md-3">
+        <div class="prof-pic prof-pic-small">
+          <div style="background-image: url(/images{{ member.url | replace: 'html', 'jpeg' }})"></div>
+        </div>
+        <a href="{{ member.url }}"><h4>{{ member.name }}</h4></a>
+        <p>{{ member.tagline }}</p>
+        <div class="social-icons">
+          {% if member.github %}
+            <a href="http://github.com/{{ member.github }}" target="_blank">
+              <i class="fa fa-github"></i>
+            </a>
+          {% endif %}
+
+          {% if member.linkedin %}
+            <a href="http://linkedin.com/in/{{ member.linkedin }}" target="_blank" >
+              <i class="fa fa-linkedin"></i>
+            </a>
+          {% endif %}
+
+          {% if member.twitter %}
+            <a href="http://twitter.com/{{ member.twitter }}" target="_blank">
+              <i class="fa fa-twitter"></i>
+            </a>
+          {% endif %}
+
+          {% if member.email %}
+            <a href="mailto:{{ member.email }}" target="_blank">
+              <i class="fa fa-envelope"></i>
+            </a>
+          {% endif %}
+
+          {% if member.facebook %}
+            <a href="http://facebook.com/{{ member.facebook }}" target="_blank">
+              <i class="fa fa-facebook"></i>
+            </a>
+          {% endif %}
+
+          {% if member.dribbble %}
+            <a href="http://dribbble.com/{{ member.dribbble }}" target="_blank">
+              <i class="fa fa-dribbble"></i>
+            </a>
+          {% endif %}
+
+        </div>
+
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% comment %}
+      {% include header.html %}
+    {% endcomment %}
+
+
+
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner container">
+              <h3 class="masthead-brand">
+                <a href="/">
+                  <img
+                    src="/images/bell-logo-final-white.png"
+                    style="width:180px;"
+                    alt="Bell Senior Society">
+                  </a>
+              </h3>
+              <ul class="nav masthead-nav">
+                {% for year in site.collections.members.years %}
+                  <li>
+                    <a href="/members/{{ year }}">{{ year }} Members</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <div class="inner cover container">
+            {{ content }}
+          </div>
+
+          {% include footer.html %}
+
+        </div>
+      </div>
+    </div>
+
+    <!-- <div class="page-content">
+      <div class="wrap">
+      {{ content }}
+      </div>
+    </div> -->
+
+  {% include js.html %}
+
+  </body>
+</html>
