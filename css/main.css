@@ -155,7 +155,8 @@ body {
   }
   /* Alex added */
   .content-container {
-    padding: 140px;
+    padding: 80px;
+    padding-top: 120px;
   }
 }
 
