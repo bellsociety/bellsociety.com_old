@@ -22,7 +22,7 @@ I will use the example year `2032` (ie; you graduate in 2032) with two members, 
 
 ### To add yourself as a member:
 
-I will use the example `2032` and pretend your name is `Will Jahbs`. Hopefully this adds clarity.
+I will use the example graduating year of `2032` and pretend your name is `Will Jahbs`. Hopefully this adds clarity.
 
 1. In the folder `_members/2032`, add a file called `will_jahbs.md`.
   - You can do this through the github web interface: go to this link (**replacing 2032**):
@@ -30,13 +30,12 @@ I will use the example `2032` and pretend your name is `Will Jahbs`. Hopefully t
 2. Copy the contents of [_members/2014/alex_rattray.md](https://raw.githubusercontent.com/bellsociety/bellsociety.com/master/_members/2014/alex_rattray.md) into it.
 3. Customize! Replace Alex's stuff with your own. You may leave things blank.
   - (For the curious, the stuff between the `---`'s at the top is yaml, and below that is markdown)
-4. If you'd like, add a custom bio down below the lower `---`. (Markdown/HTML), aka just write words and you're fine.
-5. Add a jpeg of your pretty face to `images/members/2032` with a filename of `will_jahbs.jpeg
+4. If you'd like, add a custom bio down below the lower `---`. Write in Markdown (it's easy!!!).
+5. Add a jpeg of your pretty face to `images/members/2032` with a filename of `will_jahbs.jpeg`
   - The file format must be `.jpeg`, not `.jpg` or `.png` or `.anythingelse`.
   - The file name must otherwise exactly match the `will_jahbs.md` in `_members/year/2032`.
-  - Uploading images isn't possible through the github website =( so you'll probably want to email/dropbox/whatever your photo to someone who has admin privileges, and make them upload it with git. Thank them with a big hug.
   - (This is because Alex, the original creator, was feeling hacky. You could fix this if you felt like it, but consistency can be nice sometimes.)
-
+  - Uploading images isn't possible through the github website =( so you'll probably want to email/dropbox/whatever your photo to someone who has admin privileges, and make them upload it with git. Thank them with a big hug.
 6. Ring many bells with jubilation.
 
 
