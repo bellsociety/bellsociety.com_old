@@ -19,7 +19,7 @@ github: rattrayalex
 twitter: RattrayAlex
 email: rattray.alex@gmail.com
 facebook: rattray.alex
-dribbble: rattray
+dribbble:
 
 # DO NOT EDIT THE BELOW. kthx.
 layout: member_page
