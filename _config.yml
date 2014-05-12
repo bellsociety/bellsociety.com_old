@@ -15,3 +15,5 @@ author:
   github: bellsociety
 
 production_url: http://www.bellsociety.com
+
+markdown: kramdown
