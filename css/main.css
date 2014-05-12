@@ -27,6 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
+  min-height: 100%;
   background-color: #333;
 }
 body {
@@ -34,6 +35,7 @@ body {
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+  /*min-height: 100%;*/
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -62,8 +64,8 @@ body {
  * Header
  */
 .masthead-brand {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: -10px;
+  margin-bottom: -10px;
 }
 
 .masthead-nav > li {
@@ -152,18 +154,20 @@ body {
   }
 }
 
-@media (min-width: 992px) {
+/*@media (min-width: 992px) {
   .masthead,
   .mastfoot,
   .cover-container {
     width: 700px;
   }
-}
+}*/
 
 /*Things Alex did */
 .inner.cover p {
   color: #ccc;
   font-family: Georgia;
+}
+.inner.cover p.lead {
   font-weight: 200;
   font-size: 18px;
 }
@@ -171,4 +175,43 @@ body {
 .cover-heading {
   font-family: Georgia;
   color: #ccc;
+}
+.social-icons {
+  margin-left: -5px;
+}
+.social-icons {
+  margin-left: -20px;
+}
+.social-icons a {
+  display: inline-block;
+  margin-left: 5px;
+}
+.social-icons-large a {
+  display: inline-block;
+  margin-left: 20px;
+}
+.prof-pic {
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0px 3px 3px rgba(0,0,0,.5);
+  background-image: url('/images/ag_bell_noob.jpeg');
+  background-position: center center;
+  background-size: cover;
+  display: inline-block;
+}
+.prof-pic-small {
+  height: 80px;
+  width: 80px;
+}
+.prof-pic-large {
+  height: 200px;
+  width: 200px;
+  margin-top: 40px;
+}
+.prof-pic div {
+  border-radius: 50%;
+  background-position: center center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
