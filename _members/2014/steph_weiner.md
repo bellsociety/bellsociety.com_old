@@ -11,7 +11,7 @@ board_position: Founding President
 # -------------------------------
 
 # do *not* include the http://
-personal_site: stephmweiner.com
+personal_site: www.stephmweiner.com
 
 # linkedin must be "vanity url"; eg, this example goes to https://www.linkedin.com/in/alexrattray. Ask for help if you don't have a custom url yet.
 linkedin: stephmweiner
