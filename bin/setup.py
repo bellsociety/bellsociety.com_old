@@ -1,12 +1,18 @@
 #!/usr/bin/env python
 """
-Deploys _site/ to gh-pages.
+Checks out the gh-pages branch to _site/ dir
+as a separate repo.
+Allows for fancy-pants deploys, a   la
+https://gist.github.com/chrisjacob/825950
+
+To be used with the sibling deploy script
 
 Author: Alex Rattray <rattray.alex@gmail.com>
 """
 
 import os
 import sys
+import time
 import subprocess
 import datetime
 from clint.textui import puts, colored, indent
@@ -46,37 +52,19 @@ def shell(cmd, *args, **kwargs):
 
 def main():
 
+  shell('rm -rf _site/')
+  shell('git clone git@github.com:bellsociety/bellsociety.com.git _site')
   # go to _site, which is an entirely different git checkout
   os.chdir('_site')
-  puts(os.getcwd())
-
-  # should be on the gh-pages branch
-  current_branch = shell("git branch | grep '*'")
-  current_branch = current_branch.replace('* ', '').strip()
-  if current_branch != 'gh-pages':
-    red('! Why are you not on gh-pages! '
-      'This is weird, so Im not even going to fix it for you. '
-      'Get your act together.')
-    red('(You may need to run bin/setup.py)')
-    exit()
-
-  # add, commit, push
-  shell('git add -A .')
-  try:
-    now = datetime.datetime.now()
-    shell('git commit -m "Automatic Commit; deploying at {now}"'
-      .format(now=now))
-    shell('git push')
-  except:
-    cyan('! Nothing sames to have changed; declining to deploy.')
-    puts('If you\'d like to force a push anyway, '
-      'just cd to _site/ and `git push`')
-
+  puts('now in folder {}'.format(os.getcwd()))
+  shell('git checkout gh-pages')
+  time.sleep(1)
+  shell('git branch -D master')
 
 if __name__ == '__main__':
   puts(os.getcwd())
   if 'bin/' not in sys.argv[0]:
-    red('must be run as bin/deploy.py! from root!')
+    red('must be run as bin/setup.py! from projectroot!')
     sys.exit()
 
   main()
