@@ -6,11 +6,12 @@ layout: default
   Bell {{ page.year }} Members
 </h1>
 <br>
-
 <div class="row">
   {% for member in site.members %}
+
     {% if member.year == page.year and member.is_member %}
-      <div class="col-xs-6 col-md-3">
+      {% cycle '', '', '', '', '</div><div class="row">' %}
+      <div class="col-xs-6 col-md-3">{{ i }}
         {% assign size = 'small' %}
         {% include profile.html %}
       </div>

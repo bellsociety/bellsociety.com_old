@@ -25,7 +25,9 @@ I will use the example year `2032` (ie; you graduate in 2032) with two members, 
 I will use the example `2032` and pretend your name is `Will Jawbs`. Hopefully this adds clarity.
 
 1. In the folder `_members/2032`, add a file called `will_jawbs.md`.
-2. Copy the contents of `_members/2014/alex_rattray.md` into it, and delete everything that follows a colon in the stuff at the top (between the `---`'s). Except `layout` and `is_member`. Leave that stuff as is.
+  - You can do this through the github web interface; Go to this link (replacing 2032):
+  `https://github.com/bellsociety/bellsociety.com/new/master/_members/2032`.
+2. Copy the contents of [_members/2014/alex_rattray.md](https://raw.githubusercontent.com/bellsociety/bellsociety.com/master/_members/2014/alex_rattray.md) into it, and delete everything that follows a colon in the stuff at the top (between the `---`'s). Except `layout` and `is_member`. Leave that stuff as is.
 3. Replace all those blank slots with your info, dude!
 4. If you'd like, add a custom bio down below the lower `---`.
   - It's in Markdown or HTML. You can write Markdown or HTML, right? (If not, just write words and it'll be fine. Or ask a friend. Then it'll definitely be fine).
