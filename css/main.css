@@ -222,10 +222,13 @@ body {
   width: 100%;
 }
 
-.content-container {
-  -webkit-transition: all 3s fade;
-  -moz-transition: all 3s fade;
-  -ms-transition: all 3s fade;
-  -o-transition: all 3s fade;
-  transition: all 3s fade;
+div {
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
+hr {
+  border-color: #808080;
 }
