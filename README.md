@@ -13,9 +13,10 @@ I will use the example year `2032` (ie; you graduate in 2032) with two members, 
 2. Add a folder named `2032` to the `images/members` folder.
 3. Copy `_members/2014/index.md` into `_members/2032`. Update the year to `2032`.
 4. Add `2032` to the `collections: members: years:` list in `_config.yaml`. It'll make sense when you look.
-5. Tell members to add themselves (below).
+5. Change the `current_year` in `_config.yaml` to the current year. This one was a toughie.
+6. Tell members to add themselves (below).
  - Not sure how to manage github access. This might be an unnecessary pain. You may need to do the brunt of this work yourself. In fact, you almost definitely should.
-6. Ring many bells with jubilation.
+7. Ring many bells with jubilation.
 
 ---
 

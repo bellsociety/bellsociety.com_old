@@ -15,23 +15,7 @@
       <div class="site-wrapper-inner">
         <div class="cover-container">
           <div class="masthead clearfix">
-            <div class="inner container">
-              <h3 class="masthead-brand">
-                <a href="/">
-                  <img
-                    src="/images/bell-logo-final-white.png"
-                    style="width:180px;"
-                    alt="Bell Senior Society">
-                  </a>
-              </h3>
-              <ul class="nav masthead-nav">
-                {% for year in site.collections.members.years %}
-                  <li>
-                    <a href="/members/{{ year }}">{{ year }} Members</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
+            {% include nav.html %}
           </div>
           <div class="inner cover container">
             {{ content }}

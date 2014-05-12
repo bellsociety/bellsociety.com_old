@@ -1,0 +1,20 @@
+<div class="inner container">
+  <h3 class="masthead-brand">
+    <a href="/">
+      <img
+        src="/images/bell-logo-final-white.png"
+        style="width:180px;"
+        alt="Bell Senior Society">
+      </a>
+  </h3>
+  <ul class="nav masthead-nav">
+    {% for year in site.collections.members.years %}
+      <li>
+        <a href="/members/{{ year }}">{{ year }} Members</a>
+      </li>
+    {% endfor %}
+    <li>
+      <a href="/members/{{ site.current_year }}/board.html">Current Board</a>
+    </li>
+  </ul>
+</div>

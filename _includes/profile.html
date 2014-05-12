@@ -1,0 +1,80 @@
+<div class="profile">
+
+  {% assign p_class = '' %}
+  {% assign fa_class = '' %}
+  {% assign link = member.url  %}
+
+  {% if size == 'large' %}
+    {% assign fa_class = 'fa-2x' %}
+    {% assign p_class = 'lead' %}
+    {% if member.personal_site %}
+      {% capture link %}http://{{member.personal_site}}{% endcapture %}
+    {% endif %}
+  {% endif %}
+
+  <a href="{{ link }}">
+    <div class="prof-pic prof-pic-{{ size }}">
+      <div style="background-image: url(/images{{ member.url | replace: 'html', 'jpeg' }})"></div>
+    </div>
+
+    {% if size == 'large' %}
+      <h1 class="cover-heading">{{ member.name }}</h1>
+    {% else %}
+      <h4>{{ member.name }}</h4>
+    {% endif %}
+
+  </a>
+
+  <p class="{{ p_class }}">
+    {{ member.tagline }}
+  </p>
+  {% if member.board_position %}
+    <p class="{{ p_class }}" style="color: white;">
+      {{ member.board_position }}
+    </p>
+  {% endif %}
+  <div class="social-icons social-icons-{{ size }}">
+    {% if member.github %}
+      <a href="http://github.com/{{ member.github }}" target="_blank">
+        <i class="fa {{ fa_class }} fa-github">
+        </i>
+      </a>
+    {% endif %}
+
+    {% if member.linkedin %}
+      <a href="http://linkedin.com/in/{{ member.linkedin }}" target="_blank" >
+        <i class="fa {{ fa_class }} fa-linkedin">
+        </i>
+      </a>
+    {% endif %}
+
+    {% if member.twitter %}
+      <a href="http://twitter.com/{{ member.twitter }}" target="_blank">
+        <i class="fa {{ fa_class }} fa-twitter">
+        </i>
+      </a>
+    {% endif %}
+
+    {% if member.email %}
+      <a href="mailto:{{ member.email }}" target="_blank">
+        <i class="fa {{ fa_class }} fa-envelope">
+        </i>
+      </a>
+    {% endif %}
+
+    {% if member.facebook %}
+      <a href="http://facebook.com/{{ member.facebook }}" target="_blank">
+        <i class="fa {{ fa_class }} fa-facebook">
+        </i>
+      </a>
+    {% endif %}
+
+    {% if member.dribbble %}
+      <a href="http://dribbble.com/{{ member.dribbble }}" target="_blank">
+        <i class="fa {{ fa_class }} fa-dribbble">
+        </i>
+      </a>
+    {% endif %}
+
+  </div>
+</div>

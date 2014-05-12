@@ -3,69 +3,9 @@ layout: default
 ---
 
 {% assign member = page %}
+{% assign size = 'large' %}
 
-<a href="{% if member.personal_site %}http://{{ member.personal_site }}{% endif %}">
-  <div class="prof-pic prof-pic-large">
-    <div style="background-image: url(/images{{ member.url | replace: 'html', 'jpeg' }})"></div>
-  </div>
-  <h1 class="cover-heading">
-    {{ member.name }}
-  </h1>
-</a>
-
-{% if member.tagline %}
-  <p class="lead" >
-    {{ member.tagline }}
-  </p>
-{% endif %}
-
-{% if member.board_position %}
-  <p class="lead" style="color: white;">
-    {{ member.board_position }}, Bell Senior Society
-  </p>
-  <br>
-{% endif %}
-
-<div class="social-icons social-icons-large">
-  {% if member.github %}
-    <a href="http://github.com/{{ member.github }}" target="_blank">
-      <i class="fa fa-2x fa-github"></i>
-    </a>
-  {% endif %}
-
-  {% if member.linkedin %}
-    <a href="http://linkedin.com/in/{{ member.linkedin }}" target="_blank" >
-      <i class="fa fa-2x fa-linkedin"></i>
-    </a>
-  {% endif %}
-
-  {% if member.twitter %}
-    <a href="http://twitter.com/{{ member.twitter }}" target="_blank">
-      <i class="fa fa-2x fa-twitter"></i>
-    </a>
-  {% endif %}
-
-  {% if member.email %}
-    <a href="mailto:{{ member.email }}" target="_blank">
-        <i class="fa fa-2x fa-envelope"></i>
-    </a>
-  {% endif %}
-
-
-  {% if member.facebook %}
-    <a href="http://facebook.com/{{ member.facebook }}" target="_blank">
-      <i class="fa fa-2x fa-facebook"></i>
-    </a>
-  {% endif %}
-
-  {% if member.dribbble %}
-    <a href="http://dribbble.com/{{ member.dribbble }}" target="_blank">
-      <i class="fa fa-2x fa-dribbble"></i>
-    </a>
-  {% endif %}
-
-</div>
-
+{% include profile.html %}
 <br>
 <hr>
 {{ content}}
