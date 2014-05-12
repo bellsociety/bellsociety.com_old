@@ -13,12 +13,13 @@ board_position: Founding President
 # do *not* include the http://
 personal_site:
 
+
 # linkedin must be "vanity url"; eg, this example goes to https://www.linkedin.com/in/alexrattray. Ask for help if you don't have a custom url yet.
-linkedin:
+linkedin: stephmweiner
 github:
-twitter:
-email:
-facebook:
+twitter: stephmweiner
+email: stephanie.m.weiner.com
+facebook: sweiner87
 dribbble:
 
 # DO NOT EDIT THE BELOW. kthx.
@@ -35,5 +36,4 @@ is_member: true
   If you don't know how to write Markdown/HTML, ask a friend! Yay friends.
 -->
 <p class="lead">
-
 </p>
