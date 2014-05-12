@@ -31,10 +31,12 @@ I will use the example `2032` and pretend your name is `Will Jahbs`. Hopefully t
 3. Customize! Replace Alex's stuff with your own. You may leave things blank.
   - (For the curious, the stuff between the `---`'s at the top is yaml, and below that is markdown)
 4. If you'd like, add a custom bio down below the lower `---`. (Markdown/HTML), aka just write words and you're fine.
-5. Add a jpeg of your pretty face to `images/members/2032` with a filename of `will_jahbs.jpeg`.
+5. Add a jpeg of your pretty face to `images/members/2032` with a filename of `will_jahbs.jpeg
   - The file format must be `.jpeg`, not `.jpg` or `.png` or `.anythingelse`.
   - The file name must otherwise exactly match the `will_jahbs.md` in `_members/year/2032`.
+  - Uploading images isn't possible through the github website =( so you'll probably want to email/dropbox/whatever your photo to someone who has admin privileges, and make them upload it with git. Thank them with a big hug.
   - (This is because Alex, the original creator, was feeling hacky. You could fix this if you felt like it, but consistency can be nice sometimes.)
+
 6. Ring many bells with jubilation.
 
 
