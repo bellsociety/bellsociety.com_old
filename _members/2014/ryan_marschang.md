@@ -5,7 +5,7 @@ year: 2014
 tagline: Indefinable
 
 # if you do not have a board position, leave blank
-board_position:
+board_position: Founding Member
 
 # The following can be left blank. But do not leave them as-is!
 # -------------------------------

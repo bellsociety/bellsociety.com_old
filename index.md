@@ -4,8 +4,8 @@ title: Home
 permalink: /
 ---
 
-<h1 class="cover-heading" style="line-height:1.6em; letter-spacing: .04em;">
-  A Tech &amp; Entrepreneurship Senior Honors
-  <!-- <br> -->
-  Society at the University of Pennsylvania.
-</h1>
+<h3 class="cover-heading" style="">
+  A Tech &amp; Entrepreneurship Senior Honors Society
+  <br>
+  at the University of Pennsylvania.
+</h3>
