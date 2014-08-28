@@ -53,6 +53,8 @@ So, we have to deploy "manually". We do this using the method described here: [h
 3. To deploy, run `bin/deploy.py`.
   - It basically just cd's to `_site` and runs `git push`, to `gh-pages`.
 
+Side note: I strongly recommend the "MarkdownEditing" Sublime Text package's "Markdown GFM" syntax for syntax highlighting. 
+
 Once Github has updated the [Jekyll Version](https://pages.github.com/versions/),
 you can get rid of everything in the `bin/` directory
 and start pushing everything to `gh-pages`. If you want.
