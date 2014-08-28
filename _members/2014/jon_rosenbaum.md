@@ -2,7 +2,7 @@
 # Kindly fill these in
 name: Jon Rosenbaum
 year: 2014
-tagline: Analyst at Insight Venture Partners ASDF
+tagline: Analyst at Insight Venture Partners
 
 # if you do not have a board position, leave blank
 board_position:
