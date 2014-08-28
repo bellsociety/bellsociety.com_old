@@ -1,5 +1,5 @@
 ---
-board_position: Rosie
+board_position: null
 dribbble: null
 email: null
 facebook: null
