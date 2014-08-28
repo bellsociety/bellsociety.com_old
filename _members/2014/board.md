@@ -1,25 +1,5 @@
 ---
-layout: default
-is_member: false
+layout: board
 year: 2014
+
 ---
-
-<h1 class="cover-heading">
-  Bell {{ page.year }} Board Members
-</h1>
-<br>
-
-<div class="row">
-  {% for member in site.members %}
-    {% if member.year == page.year and member.board_position %}
-
-      {% cycle '</div><hr><div class="row">', '', '<hr class="visible-xs visible-sm">', '' %}
-
-      <div class="col-sm-6 col-md-3">
-        {% assign size = 'small' %}
-        {% include profile.html %}
-      </div>
-
-    {% endif %}
-  {% endfor %}
-</div>

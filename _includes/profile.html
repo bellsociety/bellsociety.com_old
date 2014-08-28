@@ -2,7 +2,8 @@
 
   {% assign p_class = '' %}
   {% assign fa_class = '' %}
-  {% assign link = member.url  %}
+  {% capture link %}/members/{{ member.year }}/{{ member.slug }}/{% endcapture %}
+  {% capture image %}{{ link }}{{ member.slug }}.jpg{% endcapture %}
 
   {% if size == 'large' %}
     {% assign fa_class = 'fa-2x' %}
@@ -14,7 +15,7 @@
 
   <a href="{{ link }}">
     <div class="prof-pic prof-pic-{{ size }}">
-      <div style="background-image: url(/images{{ member.url | replace: 'html', 'jpeg' }})"></div>
+      <div style="background-image: url({{ image }})"></div>
     </div>
 
     {% if size == 'large' %}
