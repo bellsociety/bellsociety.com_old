@@ -3,7 +3,7 @@
   {% assign p_class = '' %}
   {% assign fa_class = '' %}
   {% capture link %}/members/{{ member.year }}/{{ member.slug }}/{% endcapture %}
-  {% capture image %}{{ link }}{{ member.slug }}.jpg{% endcapture %}
+  {% capture image %}/images/members/{{ member.year }}/{{ member.slug }}.jpg{% endcapture %}
 
   {% if size == 'large' %}
     {% assign fa_class = 'fa-2x' %}

@@ -185,6 +185,10 @@ def save_profile_image(image_url, filepath):
 
   puts('Will save profile photo: {}'.format(filepath.split('/')[-1]))
 
+  # ensure dir exists.
+  try: os.makedirs(os.path.dirname(filepath))
+  except: pass
+
   with open(filepath, 'wb') as file_:
     r = requests.get(image_url, stream=True)
     for chunk in r.iter_content(chunk_size=1024):
@@ -201,7 +205,10 @@ def process_entry(row, dest, accept=False):
   slug = slugify(row['name'])
   filename = '{}/{}/index.md'.format(dest, slug)
   jekyll_filepath = os.path.abspath(filename)
-  photo_filename = '{dest}/{slug}/{slug}.jpg'.format(dest=dest, slug=slug)
+
+  year = int(dest.split('/')[-1])
+  photo_filename = 'images/members/{year}/{slug}.jpg'.format(
+    year=year, slug=slug)
   photo_filepath = os.path.abspath(photo_filename)
 
   old_front_matter, body_text = read_jekyll_file(jekyll_filepath)
