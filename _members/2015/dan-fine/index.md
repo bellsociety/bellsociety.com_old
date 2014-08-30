@@ -10,7 +10,7 @@ linkedin: null
 name: Dan Fine
 personal_site: null
 slug: dan-fine
-tagline: Founder, Glass U
+tagline: null
 twitter: null
 year: 2015
 

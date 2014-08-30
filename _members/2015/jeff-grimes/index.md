@@ -4,7 +4,7 @@ dribbble: null
 email: jeffgrimes9@gmail.com
 facebook: jeffgrimes
 github: jeffgrimes9
-headshot_jpg_url: http://imgur.com/7ce1gl3
+headshot_jpg_url: http://i.imgur.com/7ce1gl3.png
 layout: member_page
 linkedin: jeffgrimes9
 name: Jeff Grimes
