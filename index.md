@@ -21,7 +21,7 @@ permalink: /
         </p>
 
         <p class="lead">
-            It carries the goal of bringing together outstanding University of Pennsylvania Seniors passionate about Tech and Entrepreneurship for the purpose of promoting an exchange of ideas and experiences.
+            Bell brings together Penn seniors who are passionate about tech and entrepreneurship and promotes the exchange of ideas and experiences.
         </p>
     </div>
 </div>
