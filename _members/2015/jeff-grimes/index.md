@@ -1,17 +1,17 @@
 ---
-board_position: null
+board_position: President
 dribbble: null
-email: null
-facebook: null
-github: null
-headshot_jpg_url: null
+email: jeffgrimes9@gmail.com
+facebook: jeffgrimes
+github: jeffgrimes9
+headshot_jpg_url: http://imgur.com/7ce1gl3
 layout: member_page
-linkedin: null
+linkedin: jeffgrimes9
 name: Jeff Grimes
 personal_site: null
 slug: jeff-grimes
-tagline: Cool Dude
-twitter: null
+tagline: APM Intern at Google
+twitter: jeffgrimes9
 year: 2015
 
 ---

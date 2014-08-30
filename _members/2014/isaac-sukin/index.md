@@ -8,7 +8,7 @@ headshot_jpg_url: null
 layout: member_page
 linkedin: null
 name: Isaac Sukin
-personal_site: www.isaacsukin.com
+personal_site: isaacsukin.com
 slug: isaac-sukin
 tagline: Author, Game Development with Three.js
 twitter: null
