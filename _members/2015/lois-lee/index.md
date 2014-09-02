@@ -10,7 +10,7 @@ linkedin: loissehhyunlee
 name: Lois Lee
 personal_site: null
 slug: lois-lee
-tagline: TBD (can I just be resident foodie?)
+tagline: Resident foodie
 twitter: simpleelois
 year: 2015
 
