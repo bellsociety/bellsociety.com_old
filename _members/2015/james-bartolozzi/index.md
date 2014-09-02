@@ -2,11 +2,11 @@
 board_position: null
 dribbble: null
 email: null
-facebook: null
+facebook: emmacsilverman
 github: null
 headshot_jpg_url: null
 layout: member_page
-linkedin: null
+linkedin: emmacsilverman
 name: James Bartolozzi
 personal_site: null
 slug: james-bartolozzi

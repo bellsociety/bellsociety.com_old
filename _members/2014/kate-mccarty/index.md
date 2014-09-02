@@ -1,17 +1,17 @@
 ---
 board_position: null
 dribbble: null
-email: null
+email: mccarty.katherine@gmail.com
 facebook: null
 github: null
-headshot_jpg_url: null
+headshot_jpg_url: https://www.linkedin.com/mpr/pub/image-ioivm44h01ZaaEhYVyvKGB_zBAQmY26SeJpHAueNBsYTwNGaioiHA_AhB7KUSCityWIc/kate-mccarty.jpg
 layout: member_page
-linkedin: null
+linkedin: kate-mccarty
 name: Kate Mccarty
 personal_site: null
 slug: kate-mccarty
-tagline: Banker $
-twitter: null
+tagline: Analyst at Allen & Company
+twitter: katejmccarty
 year: 2014
 
 ---
