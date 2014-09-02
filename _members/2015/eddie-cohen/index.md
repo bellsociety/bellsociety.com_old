@@ -1,17 +1,17 @@
 ---
 board_position: null
 dribbble: null
-email: null
-facebook: null
-github: null
-headshot_jpg_url: null
+email: emcohen@me.com
+facebook: eddiec
+github: edwarcohen
+headshot_jpg_url: http://cl.ly/XKDz/Image%202014.09.01%2010%3A21%3A26%20PM.jpeg
 layout: member_page
-linkedin: null
+linkedin: eddiecohen
 name: Eddie Cohen
-personal_site: null
+personal_site: edwardmcohen.com
 slug: eddie-cohen
-tagline: null
-twitter: null
+tagline: All of the above
+twitter: eddiecohen
 year: 2015
 
 ---

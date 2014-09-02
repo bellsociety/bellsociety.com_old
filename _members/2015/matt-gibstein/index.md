@@ -1,17 +1,17 @@
 ---
-board_position: Recruitment Chair
+board_position: Rush Chair
 dribbble: null
-email: null
-facebook: null
+email: mattgibstein@gmail.com
+facebook: mattgibstein
 github: null
-headshot_jpg_url: null
+headshot_jpg_url: http://f.cl.ly/items/1q2g2b2g250d3A283K1f/Gibby%20Final.jpg
 layout: member_page
-linkedin: null
+linkedin: mattgibstein
 name: Matt Gibstein
 personal_site: null
 slug: matt-gibstein
-tagline: null
-twitter: null
+tagline: TBD
+twitter: mattgibstein
 year: 2015
 
 ---

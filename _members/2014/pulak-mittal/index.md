@@ -1,14 +1,14 @@
 ---
-board_position: Founding Member
+board_position: Founding Vice President
 dribbble: null
-email: null
-facebook: null
+email: pulak1@gmail.com
+facebook: pulak1
 github: null
-headshot_jpg_url: null
+headshot_jpg_url: https://dl.dropbox.com/s/rbt2aae012r70f8/headshot.jpg
 layout: member_page
-linkedin: null
+linkedin: pulak1
 name: Pulak Mittal
-personal_site: pulakmittal.com
+personal_site: null
 slug: pulak-mittal
 tagline: Getting shit done at Y Combinator
 twitter: PulakM
