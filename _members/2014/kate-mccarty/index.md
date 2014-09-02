@@ -10,7 +10,7 @@ linkedin: null
 name: Kate Mccarty
 personal_site: null
 slug: kate-mccarty
-tagline: Banker
+tagline: Banker $
 twitter: null
 year: 2014
 

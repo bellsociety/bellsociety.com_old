@@ -10,7 +10,7 @@ linkedin: alexrattray
 name: Alex Rattray
 personal_site: alexrattray.com
 slug: alex-rattray
-tagline: Entrepreneur; Traveling.
+tagline: Entrepreneur; Traveling
 twitter: RattrayAlex
 year: 2014
 

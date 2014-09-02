@@ -1,16 +1,16 @@
 ---
 board_position: null
 dribbble: null
-email: null
-facebook: null
-github: null
-headshot_jpg_url: null
+email: nicholasmeyer@gmail.com
+facebook: nickemeyer
+github: mkandalf
+headshot_jpg_url: http://i.imgur.com/HCsQ2nm.jpg
 layout: member_page
-linkedin: null
+linkedin: https://www.linkedin.com/pub/nicholas-meyer/47/755/bb7
 name: Nick Meyer
 personal_site: null
 slug: nick-meyer
-tagline: null
+tagline: TBD
 twitter: null
 year: 2015
 
