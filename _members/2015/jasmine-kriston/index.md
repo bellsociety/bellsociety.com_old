@@ -6,7 +6,7 @@ facebook: jkriston
 github: null
 headshot_jpg_url: https://media.licdn.com/media/p/3/005/012/087/055f693.jpg
 layout: member_page
-linkedin: http://www.linkedin.com/pub/jasmine-kriston/4a/921/87
+linkedin: null
 name: Jasmine Kriston
 personal_site: null
 slug: jasmine-kriston

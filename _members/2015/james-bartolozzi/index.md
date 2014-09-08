@@ -1,16 +1,16 @@
 ---
 board_position: null
 dribbble: null
-email: null
-facebook: emmacsilverman
-github: null
-headshot_jpg_url: null
+email: bartolozzij@gmail.com
+facebook: null
+github: jbartolozzi
+headshot_jpg_url: http://james-bartolozzi.com/files/PixPhoto.jpg
 layout: member_page
-linkedin: emmacsilverman
+linkedin: null
 name: James Bartolozzi
-personal_site: null
+personal_site: james-bartolozzi.com/home
 slug: james-bartolozzi
-tagline: null
+tagline: Intern at Pixar, SideFX
 twitter: null
 year: 2015
 

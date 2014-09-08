@@ -6,7 +6,7 @@ facebook: hunter.horlsey
 github: hhorsley
 headshot_jpg_url: https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/000/167/366/36650ef.jpg
 layout: member_page
-linkedin: www.linkedin.com/pub/hunter-horsley/21/127/115/
+linkedin: null
 name: Hunter Horsley
 personal_site: hunterhorsley.com
 slug: hunter-horsley

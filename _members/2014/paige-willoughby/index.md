@@ -8,7 +8,7 @@ headshot_jpg_url: https://media.licdn.com/media/p/1/005/046/2f0/061d2d6.jpg
 layout: member_page
 linkedin: paige-willoughby
 name: Paige Willoughby
-personal_site: http://paigewilloughby.wordpress.com/
+personal_site: paigewilloughby.wordpress.com
 slug: paige-willoughby
 tagline: Engineer at SpaceX
 twitter: paigenicole7888

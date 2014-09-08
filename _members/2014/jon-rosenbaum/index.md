@@ -1,7 +1,7 @@
 ---
 board_position: null
 dribbble: null
-email: null
+email: jrosenbaum16@gmail.com
 facebook: null
 github: null
 headshot_jpg_url: null

@@ -6,7 +6,7 @@ facebook: nickemeyer
 github: mkandalf
 headshot_jpg_url: http://i.imgur.com/HCsQ2nm.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/pub/nicholas-meyer/47/755/bb7
+linkedin: null
 name: Nick Meyer
 personal_site: null
 slug: nick-meyer
