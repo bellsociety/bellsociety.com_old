@@ -6,7 +6,7 @@ facebook: matthew.kalmans
 github: mkalmans
 headshot_jpg_url: http://i.imgur.com/Zc8d6XK.png
 layout: member_page
-linkedin: https://www.linkedin.com/profile/view?id=112325334&trk=nav_responsive_tab_profile_pic
+linkedin: null
 name: Matt Kalmans
 personal_site: null
 slug: matt-kalmans
