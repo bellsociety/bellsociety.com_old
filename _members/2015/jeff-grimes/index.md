@@ -10,7 +10,7 @@ linkedin: jeffgrimes9
 name: Jeff Grimes
 personal_site: null
 slug: jeff-grimes
-tagline: APM @ Google
+tagline: iOS developer, APM @ Google
 twitter: jeffgrimes9
 year: 2015
 
