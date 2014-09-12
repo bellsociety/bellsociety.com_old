@@ -6,8 +6,9 @@ permalink: rsvp/
 
 <div class="row">
     <h2 class="cover-heading col-lg-8 col-lg-offset-2" style="">
-        <iframe 
-            src="https://docs.google.com/forms/d/1Y_hMCcqyz81JxRHDYu5g-EEwJ2B8cSihYbLcf6rYOQ0/viewform?embedded=true" 
+        <!-- Change the Google Form URL below if desired. Use the URL that ends in /viewform and then append ?embedded=true to it. -->
+        <iframe
+            src="https://docs.google.com/forms/d/1kHBOggPdcW9Yy30KlNKAGBybSuQulDR8PovArI_gcQE/viewform?embedded=true" 
             width="760" 
             height="1000" 
             frameborder="0" 
