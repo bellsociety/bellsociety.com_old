@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RSVP
-permalink: rsvp/
+permalink: RSVP/
 ---
 
 <div class="row">
