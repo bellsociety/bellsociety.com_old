@@ -1,17 +1,17 @@
 ---
 board_position: null
 dribbble: null
-email: null
-facebook: null
+email: edwardlando8@gmail.com
+facebook: edwardlando
 github: null
 headshot_jpg_url: null
 layout: member_page
 linkedin: null
-name: Ed Lando
-personal_site: null
-slug: ed-lando
+name: Edward Lando
+personal_site: edwardlando.com
+slug: edward-lando
 tagline: Entrepreneur
-twitter: null
+twitter: edwardlando
 year: 2014
 
 ---

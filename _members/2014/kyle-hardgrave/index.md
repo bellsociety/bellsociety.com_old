@@ -1,17 +1,17 @@
 ---
 board_position: Founding Member
 dribbble: null
-email: null
-facebook: null
-github: null
+email: kylehardgrave@gmail.com
+facebook: kylehardgrave
+github: kylehg
 headshot_jpg_url: null
 layout: member_page
-linkedin: null
+linkedin: kylehardgrave
 name: Kyle Hardgrave
-personal_site: null
+personal_site: kyleh.co
 slug: kyle-hardgrave
 tagline: Engineer at Medium
-twitter: null
+twitter: kylehardgrave
 year: 2014
 
 ---

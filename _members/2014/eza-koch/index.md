@@ -1,17 +1,17 @@
 ---
 board_position: null
 dribbble: null
-email: null
-facebook: null
-github: null
+email: koch.eza@gmail.com
+facebook: ezakoch
+github: ezakoch
 headshot_jpg_url: null
 layout: member_page
-linkedin: null
+linkedin: ezakoch
 name: Eza Koch
 personal_site: null
 slug: eza-koch
 tagline: Engineer at Tesla
-twitter: null
+twitter: ezakoch
 year: 2014
 
 ---

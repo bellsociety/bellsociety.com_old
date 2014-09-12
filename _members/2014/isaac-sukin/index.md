@@ -1,17 +1,17 @@
 ---
 board_position: Founding Member
 dribbble: null
-email: null
-facebook: null
-github: null
-headshot_jpg_url: null
+email: isaacsukin@gmail.com
+facebook: isaacsukin
+github: IceCreamYou
+headshot_jpg_url: https://pbs.twimg.com/profile_images/458749074104004608/pnWA_o-c.png
 layout: member_page
-linkedin: null
+linkedin: isaacsukin
 name: Isaac Sukin
-personal_site: www.isaacsukin.com
+personal_site: isaacsukin.com
 slug: isaac-sukin
-tagline: Author, Game Development with Three.js
-twitter: null
+tagline: PM at Acquia, author, coder, game dev, Dorm Room Fund
+twitter: IceCreamYou
 year: 2014
 
 ---

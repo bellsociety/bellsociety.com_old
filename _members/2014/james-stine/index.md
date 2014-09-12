@@ -1,17 +1,17 @@
 ---
 board_position: null
 dribbble: null
-email: null
-facebook: null
+email: jamesrichardstine@gmail.com
+facebook: james.r.stine
 github: null
-headshot_jpg_url: null
+headshot_jpg_url: https://media.licdn.com/media/p/3/000/10a/281/33ccb70.jpg
 layout: member_page
-linkedin: null
+linkedin: jamesstine
 name: James Stine
-personal_site: null
+personal_site: jamesrstine.com
 slug: james-stine
 tagline: Marketing at Google
-twitter: null
+twitter: JamesRStine
 year: 2014
 
 ---
