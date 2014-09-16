@@ -2,7 +2,7 @@
 layout: default
 title: RSVP
 permalink: RSVP/
-redirect_from: "/rsvp"
+redirect_from: "/rsvp/"
 ---
 
 <div class="row">
