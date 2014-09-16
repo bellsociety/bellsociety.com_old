@@ -23,3 +23,6 @@ exclude:
 
 markdown: kramdown
 encoding: UTF-8
+
+gems:
+  - jekyll-redirect-from
