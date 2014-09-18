@@ -1,7 +1,7 @@
 ---
 board_position: Social Chair
 dribbble: null
-email: s.clara.wu.@gmail.com
+email: s.clara.wu@gmail.com
 facebook: cw
 github: scwu
 headshot_jpg_url: http://www.sphinxseniorsociety.com/wp-content/uploads/2014/08/clara.jpg
