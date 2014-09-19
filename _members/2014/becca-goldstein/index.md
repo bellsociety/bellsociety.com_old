@@ -4,7 +4,7 @@ dribbble: null
 email: beccalgoldstein@gmail.com
 facebook: becca.goldstein.39
 github: null
-headshot_jpg_url: https://www.dropbox.com/lightbox/home/LifePatch%20(1)/Fever%20Smart/Artwork
+headshot_jpg_url: dl.dropbox.com/s/obxe2g3atme7qsp/Becca_team_Square-01.png?dl=0
 layout: member_page
 linkedin: beccagoldstein
 name: Becca Goldstein
