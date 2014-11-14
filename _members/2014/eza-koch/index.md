@@ -8,7 +8,7 @@ headshot_jpg_url: null
 layout: member_page
 linkedin: ezakoch
 name: Eza Koch
-personal_site: null
+personal_site: eza.me
 slug: eza-koch
 tagline: Engineer at Tesla
 twitter: ezakoch
