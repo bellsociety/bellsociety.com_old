@@ -10,7 +10,7 @@ linkedin: jkopelman
 name: Josh Kopelman
 personal_site: null
 slug: josh-kopelman
-tagline: Serial Entrepreneur, Founding Partner at First Round Capital
+tagline: Founding Partner at First Round Capital
 twitter: joshk
 year: 2015
 

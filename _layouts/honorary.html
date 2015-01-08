@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1 class="cover-heading">
+  Honorary Bell Members
+</h1>
+<br>
+
+<div class="row">
+  {% for member in site.members %}
+    {% if member.board_position and member.board_position == 'Honorary Member' %}
+
+      {% cycle '</div><hr><div class="row">', '', '<hr class="visible-xs visible-sm">', '' %}
+
+      <div class="col-sm-6 col-md-3">
+        {% assign size = 'small' %}
+        {% include profile.html %}
+      </div>
+
+    {% endif %}
+  {% endfor %}
+</div>

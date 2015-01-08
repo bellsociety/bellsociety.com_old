@@ -9,7 +9,7 @@ layout: default
 <div class="row">
   {% for member in site.members %}
 
-    {% if member.year == page.year and member.layout == 'member_page' %}
+    {% if member.year == page.year and member.layout == 'member_page' and member.board_position and member.board_position != 'Honorary Member' %}
 
       {% cycle '</div><hr class="hidden-xs hidden-sm"><div class="row">', '', '', '' %}
 
