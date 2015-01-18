@@ -1,5 +1,5 @@
 ---
-board_position: Honorary Bell Member
+board_position: null
 dribbble: null
 email: null
 facebook: null
@@ -10,7 +10,7 @@ linkedin: jkopelman
 name: Josh Kopelman
 personal_site: null
 slug: josh-kopelman
-tagline: Founding Partner at First Round Capital
+tagline: Founding Partner, First Round Capital
 twitter: joshk
 year: 2000
 
