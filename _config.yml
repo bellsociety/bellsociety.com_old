@@ -4,6 +4,7 @@ collections:
     output: true
     foo: bar
     years:
+      - 2000
       - 2014
       - 2015
 
