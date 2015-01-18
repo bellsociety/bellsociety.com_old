@@ -9,9 +9,16 @@
   </h3>
   <ul class="nav masthead-nav">
     {% for year in site.collections.members.years %}
-      <li>
-        <a href="/members/{{ year }}">{{ year }} Members</a>
-      </li>
+      {% if year == 2000}
+        <li>
+          <a href="/members/{{ year }}">Honorary Members</a>
+        </li>
+      {% endif}
+      {% if year != 2000}
+        <li>
+          <a href="/members/{{ year }}">{{ year }} Members</a>
+        </li>
+      {% endif}
     {% endfor %}
     <li>
       <a href="/members/{{ site.current_year }}/board.html">Current Board</a>
