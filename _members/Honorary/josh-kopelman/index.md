@@ -12,6 +12,6 @@ personal_site: null
 slug: josh-kopelman
 tagline: Founding Partner, First Round Capital
 twitter: joshk
-year: 2000
+year: Honorary
 
 ---

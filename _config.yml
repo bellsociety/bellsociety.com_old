@@ -4,7 +4,7 @@ collections:
     output: true
     foo: bar
     years:
-      - 2000
+      - Honorary
       - 2014
       - 2015
 
