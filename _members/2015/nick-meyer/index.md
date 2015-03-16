@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Rush Chair
 dribbble: null
 email: nicholasmeyer@gmail.com
 facebook: nickemeyer
@@ -10,8 +10,8 @@ linkedin: null
 name: Nick Meyer
 personal_site: null
 slug: nick-meyer
-tagline: TBD
-twitter: null
+tagline: Developer; Defier of Descriptions
+twitter: nickemeyer
 year: 2015
 
 ---

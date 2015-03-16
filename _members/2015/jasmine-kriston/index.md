@@ -1,5 +1,5 @@
 ---
-board_position: Rush Chair
+board_position: null
 dribbble: null
 email: jakriston@gmail.com
 facebook: jkriston

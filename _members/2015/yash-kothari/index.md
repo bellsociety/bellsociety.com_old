@@ -10,7 +10,7 @@ linkedin: kothariy
 name: Yash Kothari
 personal_site: null
 slug: yash-kothari
-tagline: Co-founder at Prayas Analytics
+tagline: Co-Founder at Prayas Analytics
 twitter: yashkothari
 year: 2015
 
