@@ -10,7 +10,7 @@ linkedin: null
 name: Dan Fine
 personal_site: DanielFine.com
 slug: dan-fine
-tagline: Serial Entrepreneur. Glass-U. Dosed. FineCo
+tagline: Serial Entrepreneur. Glass-U. Dosed. FineCo.
 twitter: danielfine
 year: 2015
 

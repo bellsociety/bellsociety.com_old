@@ -10,7 +10,7 @@ linkedin: mkalmans
 name: Matt Kalmans
 personal_site: null
 slug: matt-kalmans
-tagline: Co-Founder at Project Applecart
+tagline: Co-Founder of Project Applecart
 twitter: mattkalmans
 year: 2015
 
