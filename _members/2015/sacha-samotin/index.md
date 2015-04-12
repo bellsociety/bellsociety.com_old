@@ -10,7 +10,7 @@ linkedin: null
 name: Sacha Samotin
 personal_site: null
 slug: sacha-samotin
-tagline: Co-Founder at Project Applecart
+tagline: Co-Founder of Project Applecart
 twitter: SachaSamotin
 year: 2015
 

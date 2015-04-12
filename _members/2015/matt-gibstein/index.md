@@ -10,7 +10,7 @@ linkedin: mattgibstein
 name: Matt Gibstein
 personal_site: null
 slug: matt-gibstein
-tagline: TBD
+tagline: Product Marketer @ Facebook
 twitter: mattgibstein
 year: 2015
 

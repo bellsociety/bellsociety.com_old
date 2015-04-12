@@ -10,7 +10,7 @@ linkedin: jamesfeuereisen
 name: James Feuereisen
 personal_site: null
 slug: james-feuereisen
-tagline: Summer Associate at BCG and fan of genomics
+tagline: Associate at BCG, fan of genomics
 twitter: jofeuereisen
 year: 2015
 
