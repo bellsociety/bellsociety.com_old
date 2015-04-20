@@ -10,7 +10,7 @@ linkedin: hongkimm
 name: Hong Kim
 personal_site: sacredsaturday.com
 slug: hong-kim
-tagline: Reident 30-year-old
+tagline: Resident 30-year-old
 twitter: null
 year: 2016
 

@@ -10,7 +10,7 @@ linkedin: rhallac
 name: Rebecca Hallac
 personal_site: rebeccahallac.com
 slug: rebecca-hallac
-tagline: null
+tagline: Animated Technologist!
 twitter: null
 year: 2016
 

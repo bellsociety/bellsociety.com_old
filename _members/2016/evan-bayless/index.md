@@ -4,7 +4,7 @@ dribbble: null
 email: ebay787@gmail.com
 facebook: evynbayless
 github: null
-headshot_jpg_url: https://drive.google.com/open?id=0B3WO8tl67eKzQU1fTkI4Q21PNXc&authuser=0
+headshot_jpg_url: https://dl.dropbox.com/get/10552097_10204504680473912_387988370_o.jpg?_subject_uid=140496077&w=AADBlYPWeImA_UIPUrBHrIVPgLy7B65j_SBEU12s7pGTsA
 layout: member_page
 linkedin: evanbayless
 name: Evan Bayless
