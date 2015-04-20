@@ -10,7 +10,7 @@ linkedin: joshtycko
 name: Josh Tycko
 personal_site: joshtycko.com
 slug: josh-tycko
-tagline: Synthetic Biology n Social Enterprise
+tagline: Synthetic biologist
 twitter: joshtycko
 year: 2014
 

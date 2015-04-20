@@ -8,7 +8,7 @@ headshot_jpg_url: https://dl.dropbox.com/s/6xrqhsrcjtmdduo/SamovarPic%20Headshot
 layout: member_page
 linkedin: kothariy
 name: Yash Kothari
-personal_site: null
+personal_site: yash-kothari.com
 slug: yash-kothari
 tagline: Co-Founder of Prayas Analytics
 twitter: yashkothari

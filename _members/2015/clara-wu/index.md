@@ -10,7 +10,7 @@ linkedin: sclarawu
 name: Clara Wu
 personal_site: clarawu.com
 slug: clara-wu
-tagline: developer, art afficionado, people advocate
+tagline: Developer, art afficionado, people advocate
 twitter: sclarawu
 year: 2015
 
