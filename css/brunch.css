@@ -1,0 +1,198 @@
+body, html {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	background-color: #324d80;
+	position: relative;
+	height: 100%;
+	overflow: auto;
+}
+
+#information {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 90.5%;
+	border: 20px double white;
+	margin: auto;
+	height: 87%;
+	display: table;
+}
+
+#invitation h1 {
+	font: 400 150px/0.8 'Great Vibes', Helvetica, sans-serif;
+	color: white;
+	text-shadow: 0px 2px 3px #555;
+	text-align: center;
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+
+#invitation h2 {
+	font-family: 'Nixie One', cursive;
+	color: white;
+	text-align: center;
+	line-height: 55px;
+	font-size: 36px;
+	position: relative;
+}
+
+#invitation {
+	height: 90%;
+	display: table-cell;
+	vertical-align: middle;
+	padding-top: 30px;
+}
+
+#date {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	margin-top: 0;
+}
+#date h2 {
+	font-size: 40px;
+	display: inline;
+	position: relative;
+	top: -35px;
+	line-height: 80px;
+}
+#date p {
+	font-family: 'Nixie One', cursive;
+	color: white;
+	display: inline-block;
+	font-weight: 100;
+	position: relative;
+	top: -30%;
+}
+
+.line {
+	border-left: 10px double white;
+	margin-left: 20px;
+	margin-right: 20px;
+	height: 100px;
+	display: inline-block;
+}
+
+#date .larger_date {
+	font-size: 80px;
+	position: relative;
+	top: -20px;
+}
+#date .smaller_date {
+	font-size: 30px;
+	position: relative;
+	top: -40px;
+}
+
+#location h2 {
+	font-size: 30px;
+}
+#location {
+	position: relative;
+	/*margin-top: -30px;*/
+}
+
+#invitation #description {
+	position: relative;
+	margin-top: -90px;
+	font-size: 20px;
+}
+
+.ss-q-title {
+	color: white;
+	font-family: 'Nixie One', cursive;
+}
+
+input {
+	background-color: #46639a;
+	color: white;
+	outline: none;
+	border: 0;
+	height: 30px;
+	font-size: 24px;
+	line-height: 26px;
+	padding-left: 10px;
+	font-family: 'Nixie One', cursive;
+	display: inline-block;
+	width: 200px;
+	margin-right: 20px;
+}
+
+select {
+   margin-right: 20px;
+	width: 60px;
+   height: 28px;
+   overflow: hidden;
+   background-color: #46639a;
+   outline: none;
+   color: white;
+   border: 0;
+   position: relative;
+   top: -8px;
+}
+
+label {
+	display: inline-block;
+	font-size: 24px;
+}
+
+.ss-form-question {
+	display: inline-block;
+}
+
+form {
+	display: inline-block;
+}
+
+#form {
+	position: relative;
+	margin-top: -40px;
+	text-align: center;
+}
+
+#rsvp {
+	position: relative;
+	margin-top: -40px;
+	text-align: center;
+}
+
+#info {
+	position: relative;
+	margin-top: -40px;
+	text-align: center;
+}
+
+.ss-navigate {
+	width: 150px;
+	display: inline-block;
+}
+
+.ss-navigate input {
+	width: 100px;
+	cursor: pointer;
+	position: relative;
+	top: 10px;
+}
+
+a {
+   color: white;
+}
+
+#date h2.time {
+   font-size: 24px;
+   top: -40px;
+}
+
+#date h2.dow {
+   font-size: 24px;
+   letter-spacing: 10px;
+   top: -40px;
+}
