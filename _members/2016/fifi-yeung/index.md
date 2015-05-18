@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Social Chair
 dribbble: null
 email: eyeung@seas.upenn.edu
 facebook: yeung.fifi

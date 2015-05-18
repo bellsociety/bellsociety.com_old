@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Vice President
 dribbble: null
 email: adinaluo@gmail.com
 facebook: luo.adina

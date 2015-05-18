@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Alumni Relations
 dribbble: null
 email: nakavthekar@gmail.com
 facebook: nkavthekar
