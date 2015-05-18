@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: President
 dribbble: null
 email: benfeis@gmail.com
 facebook: bfeis24

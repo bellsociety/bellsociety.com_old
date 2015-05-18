@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Rush Chair
 dribbble: null
 email: m.sierrasnyder@gmail.com
 facebook: morgan.s.snyder

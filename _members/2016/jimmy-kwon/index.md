@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Treasurer
 dribbble: null
 email: shk3654@gmail.com
 facebook: jkwon10
