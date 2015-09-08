@@ -4,7 +4,7 @@ dribbble: null
 email: laurenmreeder@gmail.com
 facebook: lauren.reeder.311
 github: null
-headshot_jpg_url: https://drive.google.com/file/d/0B_AalwrkiNeqRGRnZmQ0MUpBNTQ/view?usp=sharing
+headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/lauren%20reeder.jpg
 layout: member_page
 linkedin: lauren-reeder
 name: Lauren Reeder

@@ -4,7 +4,7 @@ dribbble: null
 email: aeharnagel@gmail.com
 facebook: audrey.harnagel
 github: null
-headshot_jpg_url: null
+headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/audrey%20harnagel.jpg
 layout: member_page
 linkedin: null
 name: Audrey Harnagel
