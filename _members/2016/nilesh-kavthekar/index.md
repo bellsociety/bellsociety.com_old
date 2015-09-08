@@ -4,7 +4,7 @@ dribbble: null
 email: nakavthekar@gmail.com
 facebook: nkavthekar
 github: nkav
-headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/nilesh%20kavthekar.jpg
+headshot_jpg_url: http://i.imgur.com/ykBSIze.jpg
 layout: member_page
 linkedin: nkavthekar
 name: Nilesh Kavthekar
