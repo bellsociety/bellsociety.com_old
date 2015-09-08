@@ -4,7 +4,7 @@ dribbble: null
 email: ramesh.prashant@gmail.com
 facebook: ramesh.prashant
 github: null
-headshot_jpg_url: https://dl.dropbox.com/s/quzmv5ht3du6xpg/bell%20headshot.png?dl=0
+headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/prashant%20ramesh.png
 layout: member_page
 linkedin: prashantramesh
 name: Prashant Ramesh
