@@ -4,7 +4,7 @@ dribbble: null
 email: joonyong0505@gmail.com
 facebook: null
 github: null
-headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/joon%20choi.jpg
+headshot_jpg_url: http://i.imgur.com/IyH8qzB.jpg
 layout: member_page
 linkedin: null
 name: Joon Choi

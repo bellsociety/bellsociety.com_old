@@ -4,7 +4,7 @@ dribbble: null
 email: null
 facebook: null
 github: null
-headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/fabian%20toro.jpg
+headshot_jpg_url: http://i.imgur.com/aIHc8HC.jpg
 layout: member_page
 linkedin: null
 name: Fabian Toro
