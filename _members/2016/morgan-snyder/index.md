@@ -4,7 +4,7 @@ dribbble: null
 email: m.sierrasnyder@gmail.com
 facebook: morgan.s.snyder
 github: mosnyder
-headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/morgan%20snyder.jpg
+headshot_jpg_url: http://i.imgur.com/Cqx29h1.jpg
 layout: member_page
 linkedin: mosnyder
 name: Morgan Snyder

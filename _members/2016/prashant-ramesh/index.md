@@ -4,7 +4,7 @@ dribbble: null
 email: ramesh.prashant@gmail.com
 facebook: ramesh.prashant
 github: null
-headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/prashant%20ramesh.png
+headshot_jpg_url: http://i.imgur.com/lR84X6X.png
 layout: member_page
 linkedin: prashantramesh
 name: Prashant Ramesh

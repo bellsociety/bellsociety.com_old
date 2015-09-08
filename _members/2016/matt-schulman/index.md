@@ -4,7 +4,7 @@ dribbble: null
 email: matthewdschulman@gmail.com
 facebook: matt.schulman.3
 github: matthewdschulman
-headshot_jpg_url: https://dl.dropboxusercontent.com/u/7745801/matt%20schulman.jpg
+headshot_jpg_url: http://i.imgur.com/6byRz4A.jpg
 layout: member_page
 linkedin: matthew-schulman
 name: Matt Schulman
