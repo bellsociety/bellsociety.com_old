@@ -2,7 +2,6 @@
 collections:
   members:
     output: true
-    foo: bar
     years:
       - Honorary
       - 2014
