@@ -5,6 +5,16 @@ This is a guide on how to update the information on this site. We use [Jekyll](h
 
 ---
 
+# Getting Started with Development
+
+Development requires Ruby and Python. Ruby for the site and Python for the sweet-ass script that generates all the boilerplate.
+
+To get started with Ruby is easy. Run `bundle install` and it should just work.
+
+Python is harder because there's no dependencies file. I used `pip install clint django pyyaml requests tablib` and it worked (those, incidentally, are the non-system dependecies from `bin/import.py`). If you're good at Python, you should update this repo with some sort of requirements file and cement your reputation as a good Samaritan!
+
+---
+
 ### To add a new Year's worth of Members:
 
 1. Add `2032` to the `collections: members: years:` list in `_config.yaml`. It'll make sense when you look.
@@ -18,7 +28,7 @@ This is a guide on how to update the information on this site. We use [Jekyll](h
 
 ### To develop:
 
-`jekyll serve --watch`
+`bundle exec jekyll serve --watch`
 
 ---
 
