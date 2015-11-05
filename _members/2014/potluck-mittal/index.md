@@ -1,17 +1,17 @@
 ---
 board_position: Founding Vice President
 dribbble: null
-email: pulak1@gmail.com
-facebook: pulak1
+email: callmepotluck@gmail.com
+facebook: potluck
 github: null
 headshot_jpg_url: https://dl.dropbox.com/s/rbt2aae012r70f8/headshot.jpg
 layout: member_page
 linkedin: pulak1
-name: Pulak Mittal
+name: Potluck Mittal
 personal_site: null
-slug: pulak-mittal
-tagline: Getting shit done at Y Combinator
-twitter: PulakM
+slug: potluck-mittal
+tagline: Making Education Better at Clever
+twitter: callmepotluck
 year: 2014
 
 ---
