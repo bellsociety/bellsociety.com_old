@@ -6,7 +6,7 @@ facebook: potluck
 github: null
 headshot_jpg_url: https://dl.dropbox.com/s/rbt2aae012r70f8/headshot.jpg
 layout: member_page
-linkedin: pulak1
+linkedin: potluck
 name: Potluck Mittal
 personal_site: null
 slug: potluck-mittal
