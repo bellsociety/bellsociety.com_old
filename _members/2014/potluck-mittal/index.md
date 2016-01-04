@@ -4,7 +4,7 @@ dribbble: null
 email: callmepotluck@gmail.com
 facebook: potluck
 github: null
-headshot_jpg_url: https://dl.dropbox.com/s/rbt2aae012r70f8/headshot.jpg
+headshot_jpg_url: http://i.imgur.com/GlExpEI.jpg
 layout: member_page
 linkedin: potluck
 name: Potluck Mittal

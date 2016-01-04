@@ -11,8 +11,7 @@ Development requires Ruby and Python. Ruby for the site and Python for the sweet
 
 To get started with Ruby is easy. Run `bundle install` and it should just work.
 
-Python is harder because there's no dependencies file. I used `pip install clint django pyyaml requests tablib` and it worked (those, incidentally, are the non-system dependecies from `bin/import.py`). If you're good at Python, you should update this repo with some sort of requirements file and cement your reputation as a good Samaritan!
-
+Python isn't hard either. First you'll need pip. If you don't have it [install it](http://python-packaging-user-guide.readthedocs.org/en/latest/installing/#install-pip-setuptools-and-wheel). Then run `pip install -r bin/requirements.txt`.
 ---
 
 ### To add a new Year's worth of Members:
@@ -21,7 +20,7 @@ Python is harder because there's no dependencies file. I used `pip install clint
 2. Change the `current_year` in `_config.yaml` to the current year. This one was a toughie.
 3. Tell members to add themselves to [the google spreadsheet](https://docs.google.com/spreadsheets/d/1vTla34lK53UFgDouSKHVU4uz2mYWKU7Ib8KsNG7ARu4/edit#gid=0). You'll need a new sheet for your year (eg; 2016). 
 4. Download the spreadsheet as an `.xlsx`, convert it to `.xls` using Excel/LibreOffice/Numbers. Save it to (eg) `_data/bell_members.xls`.
-5. Run `bin/import.py _data/bell_members.xls`. (You may need to run `sudo pip install -r bin/requirements.txt` first).
+5. Run `bin/import.py _data/bell_members.xls`.
 5. Ring many bells with jubilation.
 
 ---
