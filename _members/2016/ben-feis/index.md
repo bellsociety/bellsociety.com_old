@@ -10,7 +10,7 @@ linkedin: bfeis
 name: Ben Feis
 personal_site: null
 slug: ben-feis
-tagline: Analyst at Goldman Sachs
+tagline: Feisty
 twitter: ben_feis
 year: 2016
 
