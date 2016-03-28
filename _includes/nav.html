@@ -8,7 +8,9 @@
       </a>
   </h3>
   <ul class="nav masthead-nav">
-    {% for year in site.collections.members.years %}
+    <!-- Ugly hack, apparently due to Jekyll 3. Hopefully fixed one day. -->
+    {% assign years = site.collections[0].years %}
+    {% for year in years %}
       <li>
         <a href="/members/{{ year }}">{{ year }} Members</a>
       </li>
