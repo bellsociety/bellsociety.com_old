@@ -12,6 +12,7 @@ Development requires Ruby and Python. Ruby for the site and Python for the sweet
 To get started with Ruby is easy. Run `bundle install` and it should just work.
 
 Python isn't hard either. First you'll need pip. If you don't have it [install it](http://python-packaging-user-guide.readthedocs.org/en/latest/installing/#install-pip-setuptools-and-wheel). Then run `pip install -r bin/requirements.txt`.
+
 ---
 
 ### To add a new Year's worth of Members:
