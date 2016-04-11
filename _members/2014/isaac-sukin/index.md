@@ -10,7 +10,7 @@ linkedin: isaacsukin
 name: Isaac Sukin
 personal_site: isaacsukin.com
 slug: isaac-sukin
-tagline: PM at Acquia, author, coder, game dev, Dorm Room Fund
+tagline: Coding, startups, VR, writing, cookies
 twitter: IceCreamYou
 year: 2014
 

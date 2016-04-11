@@ -10,7 +10,7 @@ linkedin: nkavthekar
 name: Nilesh Kavthekar
 personal_site: null
 slug: nilesh-kavthekar
-tagline: Adventure capitalist
+tagline: Resident pot-stirrer
 twitter: niles_h
 year: 2016
 
