@@ -4,7 +4,7 @@ dribbble: null
 email: edwardlando8@gmail.com
 facebook: edwardlando
 github: null
-headshot_jpg_url: http://i.imgur.com/B8fQ9GX.jpg
+headshot_jpg_url: http://i.imgur.com/B8fQ9GX.jpg?1
 layout: member_page
 linkedin: null
 name: Edward Lando
