@@ -8,9 +8,9 @@ headshot_jpg_url: http://james-bartolozzi.com/files/PixPhoto.jpg
 layout: member_page
 linkedin: null
 name: James Bartolozzi
-personal_site: james-bartolozzi.com/home
+personal_site: jhb.graphics
 slug: james-bartolozzi
-tagline: Intern at Pixar, SideFX
+tagline: Global Technology at Pixar
 twitter: null
 year: 2015
 
