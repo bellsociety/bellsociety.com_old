@@ -6,7 +6,7 @@ facebook: rolanda.evelyn
 github: null
 headshot_jpg_url: http://i.imgur.com/S7r6q7F.jpg
 layout: member_page
-linkedin: null
+linkedin: rolanda-evelyn-07892864
 name: Rolanda Evelyn
 personal_site: null
 slug: rolanda-evelyn
