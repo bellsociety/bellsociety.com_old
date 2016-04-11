@@ -10,7 +10,7 @@ linkedin: kaleysuero
 name: Kaley Suero
 personal_site: null
 slug: kaley-suero
-tagline: inquiring mind, asking for forgiveness not permission
+tagline: Inquiring mind, asking for forgiveness not permission
 twitter: null
 year: 2017
 
