@@ -3,10 +3,10 @@ board_position: null
 dribbble: null
 email: zhaike12321@gmail.com
 facebook: kzhai
-github: null
+github: kevinzhai
 headshot_jpg_url: http://i.imgur.com/bcnnjxM.jpg
 layout: member_page
-linkedin: null
+linkedin: kevin-zhai-41565468
 name: Kevin Zhai
 personal_site: null
 slug: kevin-zhai
