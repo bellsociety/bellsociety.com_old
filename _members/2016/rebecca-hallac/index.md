@@ -1,7 +1,7 @@
 ---
 board_position: null
 dribbble: null
-email: rahallac123@gmail.com
+email: rahallac@gmail.com
 facebook: rhallac
 github: null
 headshot_jpg_url: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/005/039/0de/3115593.jpg
