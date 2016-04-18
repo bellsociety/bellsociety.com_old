@@ -4,7 +4,7 @@ dribbble: null
 email: lmccannwh16@gmail.com
 facebook: lauren.mccann.108
 github: null
-headshot_jpg_url: http://i.imgur.com/NAr7pGm.jpg
+headshot_jpg_url: http://i.imgur.com/B62znMu.png
 layout: member_page
 linkedin: lmccann1
 name: Lauren McCann
