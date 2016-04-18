@@ -10,7 +10,7 @@ linkedin: loissehhyunlee
 name: Lois Lee
 personal_site: null
 slug: lois-lee
-tagline: Resident foodie
+tagline: Yoga Yoda
 twitter: simpleelois
 year: 2015
 
