@@ -6,7 +6,7 @@ facebook: lauren.mccann.108
 github: null
 headshot_jpg_url: http://i.imgur.com/NAr7pGm.jpg
 layout: member_page
-linkedin: null
+linkedin: lmccann1
 name: Lauren McCann
 personal_site: null
 slug: lauren-mccann
