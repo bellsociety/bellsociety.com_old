@@ -4,9 +4,9 @@ dribbble: null
 email: golub.alexandra@gmail.com
 facebook: alex.golub.9
 github: null
-headshot_jpg_url: https://www.dropbox.com/s/zdxzher74jhf75d/alex.jpeg?dl=0
+headshot_jpg_url: http://i.imgur.com/cUbAonT.jpg
 layout: member_page
-linkedin: alexandra-golub
+linkedin: alexandra-golub-b517b048
 name: Alex Golub
 personal_site: null
 slug: alex-golub
