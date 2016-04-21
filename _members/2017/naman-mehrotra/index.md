@@ -6,7 +6,7 @@ facebook: naman.mehrotra.148
 github: null
 headshot_jpg_url: http://i.imgur.com/NKkmWzZ.jpg?1
 layout: member_page
-linkedin: namanmehrota
+linkedin: namanmehrotra
 name: Naman Mehrotra
 personal_site: null
 slug: naman-mehrotra
