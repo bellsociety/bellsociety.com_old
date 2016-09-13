@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Alumni Relations
 dribbble: null
 email: wrfry95@gmail.com
 facebook: slyfry

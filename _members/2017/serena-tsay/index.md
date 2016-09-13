@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: President
 dribbble: null
 email: serenatsay@gmail.com
 facebook: serenatsay
