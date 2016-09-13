@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Treasurer
 dribbble: null
 email: cathykaichen@gmail.com
 facebook: cathychen95
