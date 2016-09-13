@@ -1,5 +1,5 @@
 ---
-board_position: null
+board_position: Social Chair
 dribbble: null
 email: annawuyang@gmail.com
 facebook: annawuyang
