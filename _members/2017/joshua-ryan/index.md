@@ -10,7 +10,7 @@ linkedin: jryan11
 name: Joshua Ryan
 personal_site: null
 slug: joshua-ryan
-tagline: Making hiring more human
+tagline: Building tech that brings people together @tryplank.com
 twitter: null
 year: 2017
 
