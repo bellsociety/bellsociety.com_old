@@ -10,7 +10,7 @@ linkedin: jryan11
 name: Joshua Ryan
 personal_site: null
 slug: joshua-ryan
-tagline: Building tech that brings people together @tryplank.com
+tagline: Building tech that brings people together @ tryplank.com
 twitter: null
 year: 2017
 
