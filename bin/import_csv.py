@@ -85,6 +85,9 @@ if __name__ == '__main__':
                 with open((path + '/index.md'), 'w') as f:
                     f.write('---\n')
 
+                    f.write('layout: member_page\n')
+                    f.write('slug: {}\n'.format(slug))
+
                     for i in range(len(titles)):
                         f.write('{}: {}\n'.format(titles[i], member[i] or 'null'))
 
