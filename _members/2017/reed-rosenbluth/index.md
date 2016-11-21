@@ -1,4 +1,6 @@
 ---
+layout: member_page
+slug: reed-rosenbluth
 name: Reed Rosenbluth
 year: 2017
 tagline: too many tabs

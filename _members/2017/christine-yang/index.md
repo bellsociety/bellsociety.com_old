@@ -1,4 +1,6 @@
 ---
+layout: member_page
+slug: christine-yang
 name: Christine Yang
 year: 2017
 tagline: Channeling curiosity everyday

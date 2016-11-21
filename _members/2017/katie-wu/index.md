@@ -1,4 +1,6 @@
 ---
+layout: member_page
+slug: katie-wu
 name: Katie Wu
 year: 2017
 tagline: Average design-gineer, expert parallel parker.

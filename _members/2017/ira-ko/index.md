@@ -1,4 +1,6 @@
 ---
+layout: member_page
+slug: ira-ko
 name: Ira Ko
 year: 2017
 tagline: Secretly philosophical

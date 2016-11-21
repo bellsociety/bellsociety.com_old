@@ -1,4 +1,6 @@
 ---
+layout: member_page
+slug: philip-hu
 name: Philip Hu
 year: 2017
 tagline: I like to make things and exercise

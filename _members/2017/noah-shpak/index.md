@@ -1,4 +1,6 @@
 ---
+layout: member_page
+slug: noah-shpak
 name: Noah Shpak
 year: 2017
 tagline: trying to make society less neurotic

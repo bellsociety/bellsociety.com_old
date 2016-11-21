@@ -1,4 +1,6 @@
 ---
+layout: member_page
+slug: amy-zhuo
 name: Amy Zhuo
 year: 2017
 tagline: Building change in emerging markets
