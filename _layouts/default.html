@@ -5,6 +5,9 @@
 
   <body>
 
+    {% include nav_bar.html %}
+
+
     {% comment %}
       {% include header.html %}
     {% endcomment %}
@@ -14,15 +17,9 @@
     <div class="site-wrapper">
       <div class="site-wrapper-inner">
         <div class="cover-container">
-          <div class="masthead clearfix">
-            {% include nav.html %}
-          </div>
           <div class="inner cover container content-container">
             {{ content }}
           </div>
-
-
-
         </div>
       </div>
     </div>
