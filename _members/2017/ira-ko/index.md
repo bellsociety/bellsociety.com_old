@@ -4,7 +4,7 @@ slug: ira-ko
 name: Ira Ko
 year: 2017
 tagline: Secretly philosophical
-board_position: null
+board_position: Rush Chair
 personal_site: www.irako.io
 email: irako.jf@gmail.com
 twitter: irakojf

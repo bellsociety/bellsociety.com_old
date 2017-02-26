@@ -1,5 +1,5 @@
 ---
-board_position: Rush Chair
+board_position: null
 dribbble: null
 email: jameelkmohammed@gmail.com
 facebook: jameel.mohammed.568
