@@ -11,7 +11,7 @@ twitter: null
 facebook: null
 github: null
 dribbble: null
-headshot_jpg_url: http://imgur.com/a/6OTT4
+headshot_jpg_url: https://drive.google.com/open?id=0B7ImhOnKTZyWQUVqc05GUWZENjA
 linkedin: ajay-patel-ab876795
 
 ---
