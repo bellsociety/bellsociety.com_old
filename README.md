@@ -20,8 +20,8 @@ Python isn't hard either. First you'll need pip. If you don't have it [install i
 1. Add `2032` to the `collections: members: years:` list in `_config.yaml`. It'll make sense when you look.
 2. Change the `current_year` in `_config.yaml` to the current year. This one was a toughie.
 3. Tell members to add themselves to [the google spreadsheet](https://docs.google.com/spreadsheets/d/1vTla34lK53UFgDouSKHVU4uz2mYWKU7Ib8KsNG7ARu4/edit#gid=0). You'll need a new sheet for your year (eg; 2016). 
-4. Download the spreadsheet as an `.xlsx`, convert it to `.xls` using Excel/LibreOffice/Numbers. Save it to (eg) `_data/bell_members.xls`.
-5. Run `bin/import.py _data/bell_members.xls`.
+4. Download the year's sheet as a `csv` Save it to (eg) `_data/2018.csv`.
+5. Run `bin/newimport.py _data/2018.csv`.
 5. Ring many bells with jubilation.
 
 ---
