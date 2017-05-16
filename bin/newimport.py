@@ -201,7 +201,7 @@ def save_profile_image(image_url, filepath):
   puts('done saving photo')
   return
 
-
+# Creates jekyll page for each individual member
 def process_entry(row, dest, accept=False):
 
   # Turns names from "Krishna Bharathala" to "krishna-bharathala"
@@ -219,6 +219,8 @@ def process_entry(row, dest, accept=False):
   new_front_matter = create_front_matter(row, old_front_matter, accept=accept)
 
   write_jekyll_file(jekyll_filepath, new_front_matter, body_text)
+
+  # Requires internet, comment this out if you don't have internet
   save_profile_image(row['headshot_jpg_url'], photo_filepath)
 
 
@@ -256,10 +258,10 @@ def parse_file(filename, accept=False):
 
   # Makes sure that the file name is a number.
   try:
-    year = int(filename.split(".")[0])
+    year = int(filename.split(".")[0].split("/")[-1])
   except:
     puts(red(
-      'CSV name is not a number: {}'.format(filename.split(".")[0])
+      'CSV name is not a number: {}'.format(filename.split(".")[0].split("/")[-1])
     ))
 
   with open(filename) as f:
@@ -277,6 +279,7 @@ def parse_file(filename, accept=False):
       overall.append(temp_dict)
 
   process_year(overall, year, accept)
+
 
 if __name__ == '__main__':
 
