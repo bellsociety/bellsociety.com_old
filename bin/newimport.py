@@ -201,7 +201,7 @@ def save_profile_image(image_url, filepath):
   puts('done saving photo')
   return
 
-
+# Creates jekyll page for each individual member
 def process_entry(row, dest, accept=False):
 
   # Turns names from "Krishna Bharathala" to "krishna-bharathala"
@@ -219,7 +219,9 @@ def process_entry(row, dest, accept=False):
   new_front_matter = create_front_matter(row, old_front_matter, accept=accept)
 
   write_jekyll_file(jekyll_filepath, new_front_matter, body_text)
-  # save_profile_image(row['headshot_jpg_url'], photo_filepath)
+
+  # Requires internet, comment this out if you don't have internet
+  save_profile_image(row['headshot_jpg_url'], photo_filepath)
 
 
 def process_year(overall, year, accept):
@@ -277,6 +279,7 @@ def parse_file(filename, accept=False):
       overall.append(temp_dict)
 
   process_year(overall, year, accept)
+
 
 if __name__ == '__main__':
 
