@@ -1,17 +1,17 @@
 ---
-layout: member_page
-slug: reed-rosenbluth
-name: Reed Rosenbluth
-year: 2017
-tagline: too many tabs
 board_position: null
-personal_site: null
+dribbble: null
 email: reed.rosenbluth@gmail.com
-twitter: reedrosenbluth
 facebook: ReedRosenbluth
 github: reedrosenbluth
-dribbble: null
-linkedin: reed-rosenbluth-a8400052
 headshot_jpg_url: https://www.dropbox.com/s/mmqev346uwokzz6/reed.jpg?dl=0
+layout: member_page
+linkedin: reed-rosenbluth-a8400052
+name: Reed Rosenbluth
+personal_site: null
+slug: reed-rosenbluth
+tagline: too many tabs
+twitter: reedrosenbluth
+year: 2017
 
 ---

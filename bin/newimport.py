@@ -219,7 +219,7 @@ def process_entry(row, dest, accept=False):
   new_front_matter = create_front_matter(row, old_front_matter, accept=accept)
 
   write_jekyll_file(jekyll_filepath, new_front_matter, body_text)
-  save_profile_image(row['headshot_jpg_url'], photo_filepath)
+  # save_profile_image(row['headshot_jpg_url'], photo_filepath)
 
 
 def process_year(overall, year, accept):
@@ -256,10 +256,10 @@ def parse_file(filename, accept=False):
 
   # Makes sure that the file name is a number.
   try:
-    year = int(filename.split(".")[0])
+    year = int(filename.split(".")[0].split("/")[-1])
   except:
     puts(red(
-      'CSV name is not a number: {}'.format(filename.split(".")[0])
+      'CSV name is not a number: {}'.format(filename.split(".")[0].split("/")[-1])
     ))
 
   with open(filename) as f:

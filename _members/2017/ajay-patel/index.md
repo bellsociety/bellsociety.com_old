@@ -1,17 +1,17 @@
 ---
-layout: member_page
-slug: ajay-patel
-name: Ajay Patel
-year: 2016
-tagline: Always ideating
 board_position: null
-personal_site: null
+dribbble: null
 email: patel.ajay285@gmail.com
-twitter: null
 facebook: null
 github: null
-dribbble: null
 headshot_jpg_url: https://drive.google.com/open?id=0B7ImhOnKTZyWQUVqc05GUWZENjA
+layout: member_page
 linkedin: ajay-patel-ab876795
+name: Ajay Patel
+personal_site: null
+slug: ajay-patel
+tagline: Always ideating
+twitter: null
+year: 2016
 
 ---

@@ -1,17 +1,17 @@
 ---
-layout: member_page
-slug: katie-wu
-name: Katie Wu
-year: 2017
-tagline: Average design-gineer, expert parallel parker.
 board_position: null
-personal_site: null
+dribbble: null
 email: katiewu95@gmail.com
-twitter: null
 facebook: katiewu95
 github: katieywu
-dribbble: null
-linkedin: katieywu
 headshot_jpg_url: https://drive.google.com/file/d/0BywzDVfGc2B2dDExSUNwNzVwNzQ/view?usp=sharing
+layout: member_page
+linkedin: katieywu
+name: Katie Wu
+personal_site: null
+slug: katie-wu
+tagline: Average design-gineer, expert parallel parker.
+twitter: null
+year: 2017
 
 ---
