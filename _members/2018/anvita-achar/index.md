@@ -4,7 +4,7 @@ dribbble: null
 email: anvita.achar@gmail.com
 facebook: anvita.achar
 github: anvitaa
-headshot_jpg_url: null
+headshot_jpg_url: https://lh6.googleusercontent.com/yGXYcHWVSk-toDvsMiJqcRcAPK9Mux1STvezNLYP7yEUSt71sRFWCW7lpKtG3v-Pfj31qArNDGlWmBY=w2880-h1678
 layout: member_page
 linkedin: anvitaachar
 name: Anvita Achar
