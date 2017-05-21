@@ -4,6 +4,8 @@ import argparse
 import yaml
 import os
 
+import urllib
+
 import tablib
 import requests
 from clint.textui import puts, indent
@@ -52,7 +54,6 @@ def read_jekyll_file(filepath):
 
 
 def create_front_matter(row, old_front_matter=None, accept=False):
-
   data = {}
   for key, value in row.items():
     if key == 'year':
@@ -176,6 +177,7 @@ def write_jekyll_file(filepath, new_front_matter, body_text=''):
 
 def save_profile_image(image_url, filepath):
   image_url = image_url.strip()
+  print(image_url)
   if not image_url:
     puts('No image url; skipping.')
     return
@@ -191,12 +193,15 @@ def save_profile_image(image_url, filepath):
   try: os.makedirs(os.path.dirname(filepath))
   except: pass
 
-  with open(filepath, 'wb') as file_:
-    r = requests.get(image_url, stream=True)
-    for chunk in r.iter_content(chunk_size=1024):
-      if chunk: # filter out keep-alive new chunks
-        file_.write(chunk)
-        file_.flush()
+  try:
+    download = urllib.URLopener()
+    download.retrieve(image_url, filepath)
+    print("File {} downloaded to {}".format(image_url, filepath))
+
+  except urllib.error.URLError as e:
+    print("Error downloading image '{}': {}".format(iamge_url, e))
+  except urllib.error.HTTPError as e:
+    print("HTTP Error download image '{}': {!s}".format(image_url, e))
 
   puts('done saving photo')
   return

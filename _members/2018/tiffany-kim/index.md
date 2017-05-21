@@ -4,7 +4,7 @@ dribbble: null
 email: kimtiffanyj@gmail.com
 facebook: tiffany.j.kim
 github: null
-headshot_jpg_url: https://drive.google.com/file/d/0B_2SjOTrG1LmMWlydjh1ZnJDSXM/view?usp=sharing
+headshot_jpg_url: null
 layout: member_page
 linkedin: kimtiffany
 name: Tiffany Kim

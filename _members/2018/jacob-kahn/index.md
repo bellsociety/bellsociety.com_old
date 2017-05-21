@@ -4,7 +4,7 @@ dribbble: null
 email: jacobkahn1@gmail.com
 facebook: jacob.david.kahn
 github: jacobkahn
-headshot_jpg_url: http://bit.ly/2orLQJt
+headshot_jpg_url: http://i.imgur.com/67e8jGo.png
 layout: member_page
 linkedin: jacobdavidkahn
 name: Jacob Kahn

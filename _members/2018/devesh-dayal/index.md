@@ -4,7 +4,7 @@ dribbble: null
 email: devesh95@gmail.com
 facebook: devesh.dayal1
 github: devesh95
-headshot_jpg_url: https://drive.google.com/open?id=0B8BFgTYJ96pfYmMxTDBhTWJNMVk
+headshot_jpg_url: null
 layout: member_page
 linkedin: deveshdayal
 name: Devesh Dayal

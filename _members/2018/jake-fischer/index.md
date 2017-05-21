@@ -4,7 +4,7 @@ dribbble: null
 email: jakexfischer@gmail.com
 facebook: jakefisch
 github: null
-headshot_jpg_url: https://drive.google.com/file/d/0BzolrxaFRsUBOU9MaVFhY2g0MlE/view?usp=sharing
+headshot_jpg_url: null
 layout: member_page
 linkedin: jake-fischer
 name: Jake Fischer

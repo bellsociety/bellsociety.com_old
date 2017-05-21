@@ -4,7 +4,7 @@ dribbble: null
 email: samanthaburnsfl@gmail.com
 facebook: burns.sam
 github: null
-headshot_jpg_url: https://drive.google.com/file/d/0B0RIKTs5IyAURG96YVB6MElUSDQ/view?usp=sharing
+headshot_jpg_url: null
 layout: member_page
 linkedin: samreedburns
 name: Sam Burns

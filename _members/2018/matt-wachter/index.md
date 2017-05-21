@@ -4,7 +4,7 @@ dribbble: null
 email: matthewwachter1@gmail.com
 facebook: matthew.wachter.92
 github: null
-headshot_jpg_url: https://www.dropbox.com/s/bfqk9pnk5uer025/DSC01496.jpg?dl=0
+headshot_jpg_url: null
 layout: member_page
 linkedin: null
 name: Matt Wachter

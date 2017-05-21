@@ -4,7 +4,7 @@ dribbble: null
 email: dzhang55@gmail.com
 facebook: danielzhang55
 github: dzhang55
-headshot_jpg_url: https://drive.google.com/open?id=0BzX2b5H8hPiALWVjcElxdTZYVDg
+headshot_jpg_url: http://i.imgur.com/10aLRnk.png
 layout: member_page
 linkedin: danielzhang55
 name: Daniel Zhang

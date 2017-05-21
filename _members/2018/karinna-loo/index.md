@@ -4,7 +4,7 @@ dribbble: null
 email: karinnaloo@pacbell.net
 facebook: thug
 github: null
-headshot_jpg_url: https://drive.google.com/open?id=0B8F6d9c0Fp0gRWo5YnlHdV9WalU
+headshot_jpg_url: null
 layout: member_page
 linkedin: null
 name: Karinna Loo
