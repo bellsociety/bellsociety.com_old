@@ -4,7 +4,7 @@ dribbble: null
 email: dmorenocuellar@gmail.com
 facebook: danmorenocuellar
 github: morendawg
-headshot_jpg_url: https://drive.google.com/file/d/0BwEc9hL9uPJWNFYzYzhRNkZDb00/view?usp=sharing
+headshot_jpg_url: null
 layout: member_page
 linkedin: null
 name: Daniel Moreno

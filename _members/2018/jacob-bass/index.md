@@ -4,7 +4,7 @@ dribbble: null
 email: jmikob@gmail.com
 facebook: jmikob
 github: null
-headshot_jpg_url: https://drive.google.com/file/d/0Bzoqdn6O-IUzRjVEUFVPWVlBVTA/view?usp=sharing
+headshot_jpg_url: null
 layout: member_page
 linkedin: null
 name: Jacob Bass

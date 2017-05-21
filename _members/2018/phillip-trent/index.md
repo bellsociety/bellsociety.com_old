@@ -4,7 +4,7 @@ dribbble: null
 email: philliphtrent@gmail.com
 facebook: Philthe3rd
 github: Phillip3
-headshot_jpg_url: https://drive.google.com/file/d/0B9yXuFRiArz1c1BBZnV0MXl4cGs/view?usp=sharing
+headshot_jpg_url: http://i.imgur.com/aKZrNJF.jpg
 layout: member_page
 linkedin: null
 name: Phillip Trent

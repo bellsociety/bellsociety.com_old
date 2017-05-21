@@ -4,7 +4,7 @@ dribbble: null
 email: kbharathala@gmail.com
 facebook: kbharathala
 github: kbharathala
-headshot_jpg_url: https://drive.google.com/open?id=0B9mLkNk10WUUR1hmb0t3NmNJRkk
+headshot_jpg_url: http://i.imgur.com/YIJ6T7O.jpg
 layout: member_page
 linkedin: kbharathala
 name: Krishna Bharathala
