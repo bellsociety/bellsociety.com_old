@@ -3,7 +3,6 @@
 import argparse
 import yaml
 import os
-
 import urllib
 
 import tablib
