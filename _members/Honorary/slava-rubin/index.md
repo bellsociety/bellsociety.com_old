@@ -4,7 +4,7 @@ dribbble: null
 email: null
 facebook: null
 github: null
-headshot_jpg_url: http://imgur.com/ZU9kXbI
+headshot_jpg_url: http://i.imgur.com/DsVU2ix.jpg
 layout: member_page
 linkedin: indieslava
 name: Slava Rubin
