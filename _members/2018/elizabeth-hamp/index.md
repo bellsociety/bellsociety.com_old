@@ -1,5 +1,5 @@
 ---
-board_position: Vice President
+board_position: null
 dribbble: null
 email: elizabethjhamp@gmail.com
 facebook: elizabethhamp

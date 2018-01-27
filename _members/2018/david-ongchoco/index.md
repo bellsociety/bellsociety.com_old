@@ -1,5 +1,5 @@
 ---
-board_position: Alumni Relations
+board_position: null
 dribbble: null
 email: david.ongchoco@gmail.com
 facebook: david.ongchoco

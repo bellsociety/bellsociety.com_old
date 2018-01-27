@@ -1,5 +1,5 @@
 ---
-board_position: Treasurer
+board_position: null
 dribbble: null
 email: anvita.achar@gmail.com
 facebook: anvita.achar
