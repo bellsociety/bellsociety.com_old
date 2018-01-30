@@ -4,7 +4,7 @@ dribbble: null
 email: juliawngg@gmail.com
 facebook: juliawngg
 github: null
-headshot_jpg_url: null
+headshot_jpg_url: https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAcUAAAAJGNjN2Y1N2JhLTU2ZTItNDNiZS1hNDQ0LThlZjE0NDMwNzQ4Yw.jpg
 layout: member_page
 linkedin: juliawng
 name: Julia Wang

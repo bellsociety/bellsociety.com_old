@@ -192,15 +192,15 @@ def save_profile_image(image_url, filepath):
   try: os.makedirs(os.path.dirname(filepath))
   except: pass
 
-  try:
-    download = urllib.URLopener()
-    download.retrieve(image_url, filepath)
-    print("File {} downloaded to {}".format(image_url, filepath))
+  # try:
+  download = urllib.URLopener()
+  download.retrieve(image_url, filepath)
+  print("File {} downloaded to {}".format(image_url, filepath))
 
-  except urllib.error.URLError as e:
-    print("Error downloading image '{}': {}".format(iamge_url, e))
-  except urllib.error.HTTPError as e:
-    print("HTTP Error download image '{}': {!s}".format(image_url, e))
+  # except urllib.error.URLError as e:
+  #   print("Error downloading image '{}': {}".format(iamge_url, e))
+  # except urllib.error.HTTPError as e:
+  #   print("HTTP Error download image '{}': {!s}".format(image_url, e))
 
   puts('done saving photo')
   return

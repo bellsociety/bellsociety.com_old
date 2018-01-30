@@ -4,7 +4,7 @@ dribbble: null
 email: vrachakonda96@gmail.com
 facebook: vishnu.rachakonda.5
 github: null
-headshot_jpg_url: null
+headshot_jpg_url: https://media-exp2.licdn.com/media/AAEAAQAAAAAAAASSAAAAJDE4Yzc0Y2UzLWFhZTUtNGEzMi1iYTE1LWRiMDliNGJiYTA1Mg.jpg
 layout: member_page
 linkedin: vrachakonda
 name: Vishnu Rachakonda
