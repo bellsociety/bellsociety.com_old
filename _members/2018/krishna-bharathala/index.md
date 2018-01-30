@@ -11,7 +11,7 @@ name: Krishna Bharathala
 personal_site: null
 slug: krishna-bharathala
 tagline: waiting for an apple to hit me
-twitter: null
+twitter: kbharathala
 year: 2018
 
 ---
