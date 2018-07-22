@@ -1,16 +1,16 @@
 ---
 board_position: null
 dribbble: null
-email: null
+email: julia.lily.pan@gmail.com
 facebook: null
-github: null
-headshot_jpg_url: null
+github: panjulia
+headshot_jpg_url: https://i.imgur.com/wQcl4mu.jpg
 layout: member_page
 linkedin: null
 name: Julia Pan
 personal_site: null
 slug: julia-pan
-tagline: null
+tagline: hack the government
 twitter: null
 year: 2019
 
