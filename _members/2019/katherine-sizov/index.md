@@ -6,7 +6,7 @@ facebook: null
 github: null
 headshot_jpg_url: https://i.imgur.com/j0FZOwS.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/in/katherine-sizov-2b822b126/
+linkedin: katherine-sizov-2b822b126
 name: Katherine Sizov
 personal_site: null
 slug: katherine-sizov

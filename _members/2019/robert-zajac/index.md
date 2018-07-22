@@ -1,12 +1,12 @@
 ---
 board_position: President
-dribbble: what is this?
+dribbble: null
 email: null
 facebook: null
-github: http://github.com/robzajac
+github: robzajac
 headshot_jpg_url: https://i.imgur.com/y0NqzEx.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/in/robertzajac/
+linkedin: robertzajac
 name: Robert Zajac
 personal_site: null
 slug: robert-zajac

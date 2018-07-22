@@ -1,12 +1,12 @@
 ---
 board_position: Rush Chair
-dribbble: http://dribbble.com/tifchang
+dribbble: tifchang
 email: tiffanywhchang@gmail.com
-facebook: http://facebook.com/tifchang
-github: http://github.com/tifchang
+facebook: tifchang
+github: tifchang
 headshot_jpg_url: https://i.imgur.com/SSm5Qwo.jpg
 layout: member_page
-linkedin: http://linkedin.com/tifchang
+linkedin: tifchang
 name: Tiffany Chang
 personal_site: http://tifchang.com
 slug: tiffany-chang
