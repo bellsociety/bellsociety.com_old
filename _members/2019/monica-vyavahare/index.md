@@ -1,12 +1,12 @@
 ---
 board_position: Treasurer
 dribbble: null
-email: null
-facebook: null
-github: null
-headshot_jpg_url: null
+email: msvyavahare@gmail.com
+facebook: monica.vyavahare
+github: mvyavahare
+headshot_jpg_url: https://i.imgur.com/qAPjDoX.jpg
 layout: member_page
-linkedin: null
+linkedin: monicavyavahare
 name: Monica Vyavahare
 personal_site: null
 slug: monica-vyavahare

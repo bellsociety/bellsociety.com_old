@@ -10,7 +10,7 @@ linkedin: echiu1997
 name: Eric Chiu
 personal_site: null
 slug: eric-chiu
-tagline: null
+tagline: Know what you don't know.
 twitter: null
 year: 2019
 
