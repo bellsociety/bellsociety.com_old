@@ -1,5 +1,5 @@
 ---
-board_position: Rush Chair
+board_position: null
 dribbble: tifchang
 email: tiffanywhchang@gmail.com
 facebook: tifchang

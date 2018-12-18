@@ -10,7 +10,7 @@ linkedin: johnathanchen
 name: Johnathan Chen
 personal_site: johnathan.com
 slug: johnathan-chen
-tagline: Watching the rice cook
+tagline: Life keeps getting in the way
 twitter: null
 year: 2019
 

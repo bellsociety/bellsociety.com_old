@@ -1,5 +1,5 @@
 ---
-board_position: Social Chair
+board_position: null
 dribbble: null
 email: null
 facebook: anton.relin
