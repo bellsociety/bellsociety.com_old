@@ -1,7 +1,7 @@
 ---
 board_position: null
 dribbble: null
-email: null
+email: jschwartz221@gmail.com
 facebook: jschwartz221
 github: null
 headshot_jpg_url: https://i.imgur.com/ovyRqGb.jpg
