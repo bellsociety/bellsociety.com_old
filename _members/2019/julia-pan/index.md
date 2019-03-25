@@ -6,7 +6,7 @@ facebook: null
 github: panjulia
 headshot_jpg_url: https://i.imgur.com/wQcl4mu.jpg
 layout: member_page
-linkedin: null
+linkedin: panjulia
 name: Julia Pan
 personal_site: null
 slug: julia-pan
