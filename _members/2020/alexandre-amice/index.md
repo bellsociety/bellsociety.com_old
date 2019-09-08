@@ -8,7 +8,7 @@ headshot_jpg_url: https://i.imgur.com/KVN5lyX.jpg
 layout: member_page
 linkedin: alexandre-amice-6ba400129
 name: Alexandre Amice
-personal_site: https://aqualcham.wixsite.com/alexandreamice
+personal_site: aqualcham.wixsite.com/alexandreamice
 slug: alexandre-amice
 tagline: Everything is fancy addition
 twitter: null
