@@ -3,4 +3,3 @@ tablib
 django
 clint
 requests
-urllib
