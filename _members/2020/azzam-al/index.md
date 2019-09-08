@@ -3,10 +3,10 @@ board_position: Vice President
 dribbble: null
 email: azzam.thagafi@gmail.com
 facebook: null
-github: https://github.com/azzamalthagafi
+github: azzamalthagafi
 headshot_jpg_url: https://i.imgur.com/NJhsD51.png
 layout: member_page
-linkedin: https://www.linkedin.com/in/azzamthagafi/
+linkedin: azzamthagafi
 name: Azzam Al
 personal_site: https://aazzam.com/
 slug: azzam-al

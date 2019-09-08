@@ -6,7 +6,7 @@ facebook: null
 github: jbecke
 headshot_jpg_url: https://i.imgur.com/dycHiVf.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/in/jacob-beckerman-aa018b114
+linkedin: jacob-beckerman-aa018b114
 name: Jacob Beckerman
 personal_site: jacobbeckerman.com
 slug: jacob-beckerman

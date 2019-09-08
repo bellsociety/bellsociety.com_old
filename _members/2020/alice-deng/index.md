@@ -2,11 +2,11 @@
 board_position: President
 dribbble: null
 email: alice.deng97@gmail.com
-facebook: www.facebook.com/alicedeng97
+facebook: alicedeng97
 github: null
 headshot_jpg_url: https://i.imgur.com/DEWcjvz.png
 layout: member_page
-linkedin: www.linkedin.com/in/alicedeng97/
+linkedin: alicedeng97
 name: Alice Deng
 personal_site: null
 slug: alice-deng

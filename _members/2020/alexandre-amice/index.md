@@ -6,7 +6,7 @@ facebook: null
 github: null
 headshot_jpg_url: https://i.imgur.com/KVN5lyX.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/in/alexandre-amice-6ba400129/
+linkedin: alexandre-amice-6ba400129
 name: Alexandre Amice
 personal_site: https://aqualcham.wixsite.com/alexandreamice
 slug: alexandre-amice
