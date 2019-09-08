@@ -2,11 +2,11 @@
 board_position: null
 dribbble: null
 email: veralee98@gmail.com
-facebook: https://www.facebook.com/vera.g.lee8
+facebook: vera.g.lee8
 github: null
 headshot_jpg_url: https://i.imgur.com/raxg28T.jpg
 layout: member_page
-linkedin: www.linkedin.com/in/vera-lee
+linkedin: vera-lee
 name: Vera Lee
 personal_site: null
 slug: vera-lee

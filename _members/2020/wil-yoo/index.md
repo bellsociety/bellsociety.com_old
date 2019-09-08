@@ -6,7 +6,7 @@ facebook: null
 github: null
 headshot_jpg_url: https://i.imgur.com/OaOgKoY.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/in/willyoo42/
+linkedin: willyoo42
 name: Wil Yoo
 personal_site: null
 slug: wil-yoo

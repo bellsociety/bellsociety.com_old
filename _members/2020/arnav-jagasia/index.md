@@ -6,7 +6,7 @@ facebook: null
 github: null
 headshot_jpg_url: https://i.imgur.com/do7rxaB.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/in/arnavjagasia/
+linkedin: arnavjagasia
 name: Arnav Jagasia
 personal_site: null
 slug: arnav-jagasia
