@@ -256,7 +256,7 @@ def process_year(overall, year, accept):
   write_jekyll_file(index_filepath, index_front_matter, '')
 
 
-# Parses the CSV File 
+# Parses the CSV File
 # Puts information into a list of dicts for each member.
 def parse_file(filename, accept=False):
 
@@ -277,7 +277,7 @@ def parse_file(filename, accept=False):
     for row in l[1:]:
       temp_dict = {}
       for i in xrange(len(row)):
-        # Creating a dictionary with format: 
+        # Creating a dictionary with format:
         # {"name": "krishna bharathala", "email": "kbharathala@gmail.com"}
         temp_dict[l[0][i]] = row[i]
       overall.append(temp_dict)
