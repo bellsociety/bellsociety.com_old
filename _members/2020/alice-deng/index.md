@@ -8,7 +8,7 @@ headshot_jpg_url: https://i.imgur.com/DEWcjvz.png
 layout: member_page
 linkedin: alicedeng97
 name: Alice Deng
-personal_site: null
+personal_site: alicedeng.co
 slug: alice-deng
 tagline: yeeto cheeto
 twitter: null
