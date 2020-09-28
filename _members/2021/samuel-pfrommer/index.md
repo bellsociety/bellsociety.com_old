@@ -2,11 +2,11 @@
 board_position: null
 dribbble: null
 email: sam.pfrommer@gmail.com
-facebook: https://www.facebook.com/samuel.pfrommer/
-github: https://github.com/spfrommer
+facebook: samuel.pfrommer
+github: spfrommer
 headshot_jpg_url: https://i.imgur.com/WQeorqo.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/in/sampfrommer/
+linkedin: sampfrommer/
 name: Samuel Pfrommer
 personal_site: sam.pfrommer.us
 slug: samuel-pfrommer
