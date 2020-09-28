@@ -10,7 +10,7 @@ linkedin: aashish-jain-8ab164156/
 name: Aashish Jain
 personal_site: https://aashja.in
 slug: aashish-jain
-tagline: shoot for the stars
+tagline: null
 twitter: aashj99
 year: 2021
 
