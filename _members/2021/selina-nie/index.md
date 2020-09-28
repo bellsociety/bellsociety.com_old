@@ -1,6 +1,6 @@
 ---
 board_position: null
-dribbble: https://dribbble.com/selinanie
+dribbble: selinanie
 email: selinanie11@gmail.com
 facebook: selinanie
 github: snie11
