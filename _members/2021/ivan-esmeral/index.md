@@ -2,16 +2,16 @@
 board_position: null
 dribbble: null
 email: ivanes@seas.upenn.edu
-facebook: https://www.facebook.com/ivan.esmeral.9
-github: https://github.com/ivanesmeral98
+facebook: ivan.esmeral.9
+github: ivanesmeral98
 headshot_jpg_url: https://i.imgur.com/cAo9dYu.jpg
 layout: member_page
-linkedin: https://www.linkedin.com/in/ivan-esmeral-305a59121/
+linkedin: ivan-esmeral-305a59121/
 name: Ivan Esmeral
 personal_site: www.thecollegesetlist.com
 slug: ivan-esmeral
 tagline: Don't claim hip hop if you only hop to what's hip
-twitter: https://twitter.com/Techsmeral
+twitter: Techsmeral
 year: 2021
 
 ---
