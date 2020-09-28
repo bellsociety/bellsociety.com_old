@@ -10,7 +10,7 @@ linkedin: jhutchinsbelgrave
 name: Jelani Hutchins-Belgrave
 personal_site: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 slug: jelani-hutchins-belgrave
-tagline: shoot for the stars aim for the mooooon
+tagline: shoot for the stars aim for the moon
 twitter: jelanihb
 year: 2021
 
