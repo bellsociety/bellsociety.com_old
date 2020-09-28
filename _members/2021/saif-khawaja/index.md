@@ -4,7 +4,7 @@ dribbble: null
 email: saifnk@wharton.upenn.edu
 facebook: https://www.facebook.com/saif.khawaja.37
 github: null
-headshot_jpg_url: https://imgur.com/7mwo5Sh
+headshot_jpg_url: https://i.imgur.com/7mwo5Sh.jpg
 layout: member_page
 linkedin: https://www.linkedin.com/in/saifnk/
 name: Saif Khawaja

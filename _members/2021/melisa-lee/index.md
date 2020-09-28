@@ -4,7 +4,7 @@ dribbble: null
 email: melisal@wharton.upenn.edu
 facebook: https://www.facebook.com/melisajlee
 github: null
-headshot_jpg_url: https://imgur.com/a/Pi5Miz6
+headshot_jpg_url: https://i.imgur.com/XQPR2VZ.jpg
 layout: member_page
 linkedin: https://www.linkedin.com/in/melisajlee/
 name: Melisa Lee

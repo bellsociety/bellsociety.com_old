@@ -4,7 +4,7 @@ dribbble: null
 email: kathiejin@gmail.com
 facebook: https://www.facebook.com/kathie.jin.5/
 github: null
-headshot_jpg_url: https://imgur.com/ZQTdibI
+headshot_jpg_url: https://i.imgur.com/ZQTdibI.jpg
 layout: member_page
 linkedin: https://www.linkedin.com/in/kathiejin/
 name: Kathie Jin

@@ -4,7 +4,7 @@ dribbble: null
 email: rpati@wharton.upenn.edu
 facebook: https://www.facebook.com/iloverickyp
 github: null
-headshot_jpg_url: https://imgur.com/Dsy7gpG
+headshot_jpg_url: https://i.imgur.com/Dsy7gpG.jpg
 layout: member_page
 linkedin: https://www.linkedin.com/in/ranjanrickypati/
 name: Ricky Pati

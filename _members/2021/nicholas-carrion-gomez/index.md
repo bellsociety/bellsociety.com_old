@@ -4,7 +4,7 @@ dribbble: null
 email: ncgomez@seas.upenn.edu
 facebook: https://www.facebook.com/nickcg1/
 github: null
-headshot_jpg_url: https://imgur.com/y7q2UuV
+headshot_jpg_url: https://i.imgur.com/y7q2UuV.jpg
 layout: member_page
 linkedin: https://www.linkedin.com/in/nicholas-gomez-a3bb96158/
 name: Nicholas Carrion Gomez
