@@ -11,7 +11,7 @@ name: Jelani Hutchins-Belgrave
 personal_site: null
 slug: jelani-hutchins-belgrave
 tagline: President of saving things for last minute
-twitter: jelanihb
+twitter: jelanihb/
 year: 2021
 
 ---
