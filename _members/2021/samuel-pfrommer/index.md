@@ -3,7 +3,7 @@ board_position: null
 dribbble: null
 email: sam.pfrommer@gmail.com
 facebook: samuel.pfrommer
-github: spfrommer
+github: https://github.com/spfrommer
 headshot_jpg_url: https://i.imgur.com/WQeorqo.jpg
 layout: member_page
 linkedin: sampfrommer/

@@ -3,7 +3,7 @@ board_position: null
 dribbble: null
 email: mayx@seas.upenn.edu
 facebook: Mayx10
-github: 17maxiao
+github: https://github.com/17maxiao
 headshot_jpg_url: https://i.imgur.com/MMK1nU2.jpg
 layout: member_page
 linkedin: mayxiao/
