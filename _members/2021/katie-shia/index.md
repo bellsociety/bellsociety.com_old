@@ -4,7 +4,7 @@ dribbble: null
 email: katie.shia@gmail.com
 facebook: katie.shia/
 github: null
-headshot_jpg_url: https://i.imgur.com/Y9eH3TP.jpg
+headshot_jpg_url: https://i.imgur.com/wko94Nd.jpg
 layout: member_page
 linkedin: katie-shia-2283a2154/
 name: Katie Shia

@@ -4,7 +4,7 @@ dribbble: null
 email: mayx@seas.upenn.edu
 facebook: Mayx10
 github: https://github.com/17maxiao
-headshot_jpg_url: https://i.imgur.com/MMK1nU2.jpg
+headshot_jpg_url: https://i.imgur.com/lfqQhlw.jpg
 layout: member_page
 linkedin: mayxiao/
 name: May Xiao
