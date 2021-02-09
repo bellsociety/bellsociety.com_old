@@ -1,9 +1,9 @@
 ---
 board_position: null
-dribbble: selinanie
+dribbble: https://dribbble.com/selinanie
 email: selinanie11@gmail.com
 facebook: selinanie
-github: snie11
+github: https://github.com/snie11
 headshot_jpg_url: https://i.imgur.com/3schtT5.jpg
 layout: member_page
 linkedin: selina-nie-8aa67a145/
