@@ -4,7 +4,7 @@ dribbble: null
 email: nfarooqui99@gmail.com
 facebook: nabeelornodeal
 github: https://github.com/nabeelf
-headshot_jpg_url: https://i.imgur.com/jel72O9.png
+headshot_jpg_url: https://i.imgur.com/JzgpeiU.png
 layout: member_page
 linkedin: nabeel-f/
 name: Nabeel Farooqui

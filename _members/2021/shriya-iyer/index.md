@@ -4,7 +4,7 @@ dribbble: null
 email: shriyai@wharton.upenn.edu
 facebook: shriya.iyer.395
 github: null
-headshot_jpg_url: https://i.imgur.com/KHgLpYO.jpg
+headshot_jpg_url: https://i.imgur.com/0LJM00M.jpg
 layout: member_page
 linkedin: shriyaiyer/
 name: Shriya Iyer

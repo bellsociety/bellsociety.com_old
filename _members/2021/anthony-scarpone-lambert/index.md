@@ -4,7 +4,7 @@ dribbble: null
 email: antsl@nursing.upenn.edu
 facebook: anthony.scarponelambert
 github: null
-headshot_jpg_url: https://i.imgur.com/9L9rcuj.jpg
+headshot_jpg_url: https://i.imgur.com/G02ycPR.jpg
 layout: member_page
 linkedin: anthony-scarpone-lambert-669052138/
 name: Anthony Scarpone-Lambert

@@ -4,7 +4,7 @@ dribbble: null
 email: chrischerian@gmail.com
 facebook: chrischerryan
 github: null
-headshot_jpg_url: https://i.imgur.com/51ausyY.png
+headshot_jpg_url: https://i.imgur.com/eWQBUDl.png
 layout: member_page
 linkedin: christophercherian
 name: Chris Cherian

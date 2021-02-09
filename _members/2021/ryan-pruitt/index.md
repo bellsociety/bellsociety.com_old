@@ -4,7 +4,7 @@ dribbble: null
 email: ryapru@wharton.upenn.edu
 facebook: ryan.pruitt.12935
 github: null
-headshot_jpg_url: https://i.imgur.com/g2Imsqt.jpg
+headshot_jpg_url: https://i.imgur.com/2lceuaI.jpg
 layout: member_page
 linkedin: ryan-pruitt-225a3b10a/
 name: Ryan Pruitt
